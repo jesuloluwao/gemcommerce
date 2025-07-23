@@ -57,13 +57,11 @@ body {
 
 .feature-card {
     background: #ffffff;
-    padding: 20px 16px;
-    border-radius: 12px;
-    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+    padding: 10px 10px;
+    border-radius: 12px;rgba(0, 0, 0, 0.06);
     text-align: left;
     transition: all 0.3s ease;
-    border: 1px solid #f0f0f0;
-    width: 240px;
+    width: 300px;
     max-width: 240px;
 }
 
@@ -116,8 +114,8 @@ body {
 }
 
 .product-bowl-img {
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     object-fit: cover;
     border-radius: 50%;
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
