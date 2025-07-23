@@ -146,7 +146,7 @@ body {
     object-fit: contain;
     position: absolute;
     top: 0;
-    left: 0;
+    left: -87px;
     z-index: 1;
 }
 
@@ -438,6 +438,10 @@ body {
         height: 240px;
     }
     
+    .product-bowl-container .product-bowl-top {
+        left: -60px;
+    }
+    
     .feature-card h3 {
         font-size: 0.95rem;
     }
@@ -479,6 +483,10 @@ body {
     .product-bowl-container {
         width: 180px;
         height: 180px;
+    }
+    
+    .product-bowl-container .product-bowl-top {
+        left: -45px;
     }
     
     .feature-icon {
@@ -571,6 +579,10 @@ body {
     .product-bowl-container {
         width: 160px;
         height: 160px;
+    }
+    
+    .product-bowl-container .product-bowl-top {
+        left: -40px;
     }
     
     .feature-icon {
