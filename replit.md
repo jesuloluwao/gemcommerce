@@ -16,6 +16,9 @@ Preferred communication style: Simple, everyday language.
 - Fixed feature card positioning around central product bowl image
 - Updated responsive design to maintain layout structure across all screen sizes
 - User confirmed layout now matches their reference design accurately
+- Changed feature card layout: icons now positioned beside text (horizontal) instead of above
+- Implemented layered product bowl: Rectangle 40556.png (base circle) with Rectangle 40557.png (semicircle) perfectly aligned with left edge positioning
+- Added responsive left-shift positioning for semicircle across all breakpoints
 
 ## System Architecture
 
