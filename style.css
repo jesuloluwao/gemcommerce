@@ -59,11 +59,10 @@ body {
     background: #ffffff;
     padding: 10px 10px;
     border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
     text-align: left;
     transition: all 0.3s ease;
-    width: 300px;
-    max-width: 240px;
+    width: 600px;
+    max-width: 350px;
     display: flex;
     align-items: flex-start;
     gap: 12px;
@@ -75,19 +74,18 @@ body {
 }
 
 .feature-icon {
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
     flex-shrink: 0;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 8px;
-    background: #f8f9fa;
+    border-radius: 15px;
 }
 
 .feature-icon img {
-    width: 24px;
-    height: 24px;
+    width: 50px;
+    height: 50px;
     object-fit: contain;
 }
 
@@ -124,12 +122,32 @@ body {
     justify-content: center;
 }
 
-.product-bowl-img {
+.product-bowl-container {
+    position: relative;
     width: 350px;
     height: 350px;
-    object-fit: cover;
-    border-radius: 50%;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.product-bowl-base {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.product-bowl-top {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
 }
 
 /* Grid positioning - Left and Right columns */
@@ -415,7 +433,7 @@ body {
         margin-left: 40px;
     }
     
-    .product-bowl-img {
+    .product-bowl-container {
         width: 240px;
         height: 240px;
     }
@@ -458,7 +476,7 @@ body {
         margin-left: 30px;
     }
     
-    .product-bowl-img {
+    .product-bowl-container {
         width: 180px;
         height: 180px;
     }
@@ -550,7 +568,7 @@ body {
         margin-left: 20px;
     }
     
-    .product-bowl-img {
+    .product-bowl-container {
         width: 160px;
         height: 160px;
     }
