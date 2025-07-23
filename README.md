@@ -498,7 +498,7 @@ Complex product visualization using CSS positioning:
 
 ## 📞 Support
 
-This is a task submission project. For technical questions about implementation details, refer to the code comments and `replit.md` architecture documentation.
+Reach out to me at loluolaoye@gmail.com
 
 ---
 
