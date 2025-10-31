@@ -1,0 +1,3865 @@
+[
+  {
+    "company_slug": "1password",
+    "company_name": "1Password",
+    "job_id": "19ce39f4-6b57-4a09-8227-06142467e85e",
+    "job_url": "https://jobs.ashbyhq.com/1password/job/19ce39f4-6b57-4a09-8227-06142467e85e",
+    "title": "Account Executive, Commercial",
+    "primary_location": "Remote UK",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote UK"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Account Executive",
+    "updated_at": "2025-09-15T20:38:21.222Z"
+  },
+  {
+    "company_slug": "1password",
+    "company_name": "1Password",
+    "job_id": "9b9dbf82-0925-4e04-a7df-3d4dd6c6c94f",
+    "job_url": "https://jobs.ashbyhq.com/1password/job/9b9dbf82-0925-4e04-a7df-3d4dd6c6c94f",
+    "title": "Account Specialist, Growth",
+    "primary_location": "Remote UK",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote UK"
+    ],
+    "workplace_type": null,
+    "employment_type": "FullTime",
+    "team_name": "Customer Success",
+    "updated_at": "2025-09-24T19:27:15.211Z"
+  },
+  {
+    "company_slug": "1password",
+    "company_name": "1Password",
+    "job_id": "422108fb-545b-43fa-8304-b075f354e008",
+    "job_url": "https://jobs.ashbyhq.com/1password/job/422108fb-545b-43fa-8304-b075f354e008",
+    "title": "Account Specialist, Growth (German)",
+    "primary_location": "Remote UK",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote UK"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Customer Success",
+    "updated_at": "2025-10-01T19:12:49.553Z"
+  },
+  {
+    "company_slug": "1password",
+    "company_name": "1Password",
+    "job_id": "559f0ed9-3eed-4f16-a897-2776effbb5a5",
+    "job_url": "https://jobs.ashbyhq.com/1password/job/559f0ed9-3eed-4f16-a897-2776effbb5a5",
+    "title": "BDR, SMB (DACH)",
+    "primary_location": "Remote UK",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote UK"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "BDR",
+    "updated_at": "2025-09-15T20:50:16.410Z"
+  },
+  {
+    "company_slug": "1password",
+    "company_name": "1Password",
+    "job_id": "2d9ce1a2-23bc-456c-827e-40be8c077449",
+    "job_url": "https://jobs.ashbyhq.com/1password/job/2d9ce1a2-23bc-456c-827e-40be8c077449",
+    "title": "Sales Support Specialist",
+    "primary_location": "Remote UK",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote UK"
+    ],
+    "workplace_type": null,
+    "employment_type": "FullTime",
+    "team_name": "Partnerships",
+    "updated_at": "2025-10-15T13:49:25.112Z"
+  },
+  {
+    "company_slug": "1password",
+    "company_name": "1Password",
+    "job_id": "bc233772-67e3-425f-ad75-5d517676fbcf",
+    "job_url": "https://jobs.ashbyhq.com/1password/job/bc233772-67e3-425f-ad75-5d517676fbcf",
+    "title": "Senior Distribution Account Manager",
+    "primary_location": "Remote UK",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote UK"
+    ],
+    "workplace_type": null,
+    "employment_type": "FullTime",
+    "team_name": "Partnerships",
+    "updated_at": "2025-09-24T19:55:54.991Z"
+  },
+  {
+    "company_slug": "1password",
+    "company_name": "1Password",
+    "job_id": "b227a1df-ca2a-4ccd-a15f-92d9ccbdb228",
+    "job_url": "https://jobs.ashbyhq.com/1password/job/b227a1df-ca2a-4ccd-a15f-92d9ccbdb228",
+    "title": "Senior Software Developer, AI for Security (ML/LLM)",
+    "primary_location": "Remote Netherlands",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote Netherlands"
+    ],
+    "workplace_type": null,
+    "employment_type": "FullTime",
+    "team_name": "Product Engineering 1",
+    "updated_at": "2025-09-05T19:10:31.217Z"
+  },
+  {
+    "company_slug": "1password",
+    "company_name": "1Password",
+    "job_id": "ea74ee5a-fedc-4a91-ba15-d57cfdcb1baf",
+    "job_url": "https://jobs.ashbyhq.com/1password/job/ea74ee5a-fedc-4a91-ba15-d57cfdcb1baf",
+    "title": "Senior Software Developer, AI for Security (ML/LLM)",
+    "primary_location": "Remote UK",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote UK"
+    ],
+    "workplace_type": null,
+    "employment_type": "FullTime",
+    "team_name": "Product Engineering 1",
+    "updated_at": "2025-09-05T19:10:43.244Z"
+  },
+  {
+    "company_slug": "1password",
+    "company_name": "1Password",
+    "job_id": "2cb9e514-4d6b-49be-a26f-96de3e360053",
+    "job_url": "https://jobs.ashbyhq.com/1password/job/2cb9e514-4d6b-49be-a26f-96de3e360053",
+    "title": "Senior Software Developer, Security for AI",
+    "primary_location": "Remote Netherlands",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote Netherlands"
+    ],
+    "workplace_type": null,
+    "employment_type": "FullTime",
+    "team_name": "Product Engineering 1",
+    "updated_at": "2025-10-02T16:36:53.436Z"
+  },
+  {
+    "company_slug": "1password",
+    "company_name": "1Password",
+    "job_id": "95c132e0-864d-497a-8ba8-84416098b7bd",
+    "job_url": "https://jobs.ashbyhq.com/1password/job/95c132e0-864d-497a-8ba8-84416098b7bd",
+    "title": "Senior Software Developer, Security for AI",
+    "primary_location": "Remote UK",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote UK"
+    ],
+    "workplace_type": null,
+    "employment_type": "FullTime",
+    "team_name": "Product Engineering 1",
+    "updated_at": "2025-10-02T16:37:30.536Z"
+  },
+  {
+    "company_slug": "1password",
+    "company_name": "1Password",
+    "job_id": "36b3d887-021c-4185-b832-187bc6f913ed",
+    "job_url": "https://jobs.ashbyhq.com/1password/job/36b3d887-021c-4185-b832-187bc6f913ed",
+    "title": "Senior Staff Product Marketing Manager, EMEA",
+    "primary_location": "Remote UK",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote UK"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product Marketing",
+    "updated_at": "2025-09-17T20:54:00.803Z"
+  },
+  {
+    "company_slug": "1password",
+    "company_name": "1Password",
+    "job_id": "fc057edd-51b6-4488-b7a7-4b93dd049a72",
+    "job_url": "https://jobs.ashbyhq.com/1password/job/fc057edd-51b6-4488-b7a7-4b93dd049a72",
+    "title": "SMB Account Executive EMEA",
+    "primary_location": "Remote UK",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote UK"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Account Executive",
+    "updated_at": "2025-09-15T21:00:13.992Z"
+  },
+  {
+    "company_slug": "Deepgram",
+    "company_name": "Deepgram",
+    "job_id": "e3a52aaa-b250-452e-b2c2-afe496b7ce11",
+    "job_url": "https://jobs.ashbyhq.com/Deepgram/job/e3a52aaa-b250-452e-b2c2-afe496b7ce11",
+    "title": "Customer Success Engineer (EMEA)",
+    "primary_location": "EMEA| Remote",
+    "secondary_locations": [
+      "London"
+    ],
+    "matched_locations": [
+      "EMEA| Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Customer Success",
+    "updated_at": "2025-09-24T22:50:21.247Z"
+  },
+  {
+    "company_slug": "Deepgram",
+    "company_name": "Deepgram",
+    "job_id": "cdecda60-85d8-4b7f-94db-c4665b3d5988",
+    "job_url": "https://jobs.ashbyhq.com/Deepgram/job/cdecda60-85d8-4b7f-94db-c4665b3d5988",
+    "title": "EMEA Account Executive",
+    "primary_location": "London",
+    "secondary_locations": [
+      "EMEA| Remote"
+    ],
+    "matched_locations": [
+      "EMEA| Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-10-15T14:30:49.228Z"
+  },
+  {
+    "company_slug": "Deepgram",
+    "company_name": "Deepgram",
+    "job_id": "fe9316d4-0e7b-4975-9d07-51a3398125e8",
+    "job_url": "https://jobs.ashbyhq.com/Deepgram/job/fe9316d4-0e7b-4975-9d07-51a3398125e8",
+    "title": "EMEA Sales Leader",
+    "primary_location": "London",
+    "secondary_locations": [
+      "EMEA| Remote"
+    ],
+    "matched_locations": [
+      "EMEA| Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-10-23T21:51:28.113Z"
+  },
+  {
+    "company_slug": "Deepgram",
+    "company_name": "Deepgram",
+    "job_id": "1278975c-e0d8-45be-82dd-8d0d1f2774e5",
+    "job_url": "https://jobs.ashbyhq.com/Deepgram/job/1278975c-e0d8-45be-82dd-8d0d1f2774e5",
+    "title": "Senior Pre-Sales Solutions Engineer - APAC",
+    "primary_location": "EMEA| Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "EMEA| Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-08-15T20:06:38.916Z"
+  },
+  {
+    "company_slug": "Deepgram",
+    "company_name": "Deepgram",
+    "job_id": "7ac1a5bc-f305-4f2a-a547-394566a549b2",
+    "job_url": "https://jobs.ashbyhq.com/Deepgram/job/7ac1a5bc-f305-4f2a-a547-394566a549b2",
+    "title": "Senior Pre-Sales Solutions Engineer - EMEA",
+    "primary_location": "EMEA| Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "EMEA| Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-08-15T20:02:50.501Z"
+  },
+  {
+    "company_slug": "Deepgram",
+    "company_name": "Deepgram",
+    "job_id": "64895340-1377-4b40-b182-1ec6b9644997",
+    "job_url": "https://jobs.ashbyhq.com/Deepgram/job/64895340-1377-4b40-b182-1ec6b9644997",
+    "title": "Solutions Architect (Applied Engineering) - APAC",
+    "primary_location": "EMEA| Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "EMEA| Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-08-15T20:09:57.455Z"
+  },
+  {
+    "company_slug": "Deepgram",
+    "company_name": "Deepgram",
+    "job_id": "9cb09363-9b68-4957-869a-da70b95ad6bd",
+    "job_url": "https://jobs.ashbyhq.com/Deepgram/job/9cb09363-9b68-4957-869a-da70b95ad6bd",
+    "title": "Solutions Architect (Applied Engineering) - EMEA",
+    "primary_location": "EMEA| Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "EMEA| Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-08-15T20:03:00.277Z"
+  },
+  {
+    "company_slug": "OpenSea",
+    "company_name": "OpenSea",
+    "job_id": "67c67893-f7f7-44e9-8a94-976c4a5f2a86",
+    "job_url": "https://jobs.ashbyhq.com/OpenSea/job/67c67893-f7f7-44e9-8a94-976c4a5f2a86",
+    "title": "Staff Android Engineer",
+    "primary_location": "Remote US or Remote EU",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote US or Remote EU"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-09-03T18:39:42.988Z"
+  },
+  {
+    "company_slug": "OpenSea",
+    "company_name": "OpenSea",
+    "job_id": "bd865eca-95dd-4efe-9304-d64532d20c69",
+    "job_url": "https://jobs.ashbyhq.com/OpenSea/job/bd865eca-95dd-4efe-9304-d64532d20c69",
+    "title": "Staff Backend Engineer",
+    "primary_location": "Remote US or Remote EU",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote US or Remote EU"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-09-03T18:38:54.520Z"
+  },
+  {
+    "company_slug": "OpenSea",
+    "company_name": "OpenSea",
+    "job_id": "d7331acd-347c-4c64-8858-6c092bed484b",
+    "job_url": "https://jobs.ashbyhq.com/OpenSea/job/d7331acd-347c-4c64-8858-6c092bed484b",
+    "title": "Staff Data Engineer",
+    "primary_location": "Remote US or Remote EU",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote US or Remote EU"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-09-03T18:40:00.736Z"
+  },
+  {
+    "company_slug": "OpenSea",
+    "company_name": "OpenSea",
+    "job_id": "66daad8a-656f-4349-bd7e-c50e80bd7fe0",
+    "job_url": "https://jobs.ashbyhq.com/OpenSea/job/66daad8a-656f-4349-bd7e-c50e80bd7fe0",
+    "title": "Staff iOS Engineer",
+    "primary_location": "Remote US or Remote EU",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote US or Remote EU"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-09-03T18:40:12.918Z"
+  },
+  {
+    "company_slug": "ashby",
+    "company_name": "Ashby",
+    "job_id": "78cd7bc7-871a-43ff-94b9-03d3bb0b2b86",
+    "job_url": "https://jobs.ashbyhq.com/ashby/job/78cd7bc7-871a-43ff-94b9-03d3bb0b2b86",
+    "title": "Account Executive, Startups - EMEA",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-08-26T16:45:05.430Z"
+  },
+  {
+    "company_slug": "ashby",
+    "company_name": "Ashby",
+    "job_id": "a3348278-1b4a-4f63-a6ee-d3b8ba57e67f",
+    "job_url": "https://jobs.ashbyhq.com/ashby/job/a3348278-1b4a-4f63-a6ee-d3b8ba57e67f",
+    "title": "Design Engineer - EMEA",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [
+      "Belgium",
+      "France",
+      "Netherlands",
+      "UK",
+      "Madrid",
+      "Barcelona",
+      "Hamburg",
+      "Munich",
+      "Rome",
+      "Milan",
+      "Finland",
+      "Sweden",
+      "Switzerland",
+      "Norway",
+      "Ireland",
+      "Poland",
+      "Porto",
+      "Lisbon"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "EMEA Engineering",
+    "updated_at": "2025-07-30T08:27:07.185Z"
+  },
+  {
+    "company_slug": "ashby",
+    "company_name": "Ashby",
+    "job_id": "7458d4e9-da2e-47bd-98cb-adfda43d42b2",
+    "job_url": "https://jobs.ashbyhq.com/ashby/job/7458d4e9-da2e-47bd-98cb-adfda43d42b2",
+    "title": "Engineering Manager - EMEA",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [
+      "France",
+      "Netherlands",
+      "UK",
+      "Belgium"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "EMEA Engineering",
+    "updated_at": "2025-10-15T17:39:33.795Z"
+  },
+  {
+    "company_slug": "ashby",
+    "company_name": "Ashby",
+    "job_id": "7e4e8a93-c35d-43c1-a739-c53aba8b682f",
+    "job_url": "https://jobs.ashbyhq.com/ashby/job/7e4e8a93-c35d-43c1-a739-c53aba8b682f",
+    "title": "Enterprise Account Executive - EMEA",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-08-29T21:53:02.792Z"
+  },
+  {
+    "company_slug": "ashby",
+    "company_name": "Ashby",
+    "job_id": "9aeb4411-a2a6-49ea-bfa8-8b27a39d4038",
+    "job_url": "https://jobs.ashbyhq.com/ashby/job/9aeb4411-a2a6-49ea-bfa8-8b27a39d4038",
+    "title": "Principal Platform Engineer - EMEA",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [
+      "Porto",
+      "Lisbon",
+      "Madrid",
+      "Barcelona",
+      "Hamburg",
+      "Munich",
+      "Rome",
+      "Milan",
+      "Finland",
+      "Sweden",
+      "Switzerland",
+      "Norway",
+      "Belgium",
+      "Czech Republic",
+      "France",
+      "Ireland",
+      "Netherlands",
+      "Poland",
+      "UK"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "EMEA Engineering",
+    "updated_at": "2025-10-15T17:31:06.421Z"
+  },
+  {
+    "company_slug": "ashby",
+    "company_name": "Ashby",
+    "job_id": "f3f599e6-57e9-44ca-8926-b12c64498be9",
+    "job_url": "https://jobs.ashbyhq.com/ashby/job/f3f599e6-57e9-44ca-8926-b12c64498be9",
+    "title": "Principal Site Reliability Engineer - EMEA",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [
+      "Munich",
+      "Hamburg",
+      "Lisbon",
+      "Porto",
+      "Madrid",
+      "Barcelona",
+      "Rome",
+      "Milan",
+      "Finland",
+      "Sweden",
+      "Switzerland",
+      "Norway",
+      "Belgium",
+      "Czech Republic",
+      "France",
+      "Ireland",
+      "Netherlands",
+      "Poland",
+      "UK"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "EMEA Engineering",
+    "updated_at": "2025-10-15T17:31:24.680Z"
+  },
+  {
+    "company_slug": "ashby",
+    "company_name": "Ashby",
+    "job_id": "f4edfc92-cd22-4e5d-be61-03c167471213",
+    "job_url": "https://jobs.ashbyhq.com/ashby/job/f4edfc92-cd22-4e5d-be61-03c167471213",
+    "title": "Senior Engineering Manager - EMEA Time Zones",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [
+      "Belgium",
+      "France",
+      "Netherlands",
+      "UK"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "EMEA Engineering",
+    "updated_at": "2025-07-30T08:27:05.490Z"
+  },
+  {
+    "company_slug": "ashby",
+    "company_name": "Ashby",
+    "job_id": "7850dae6-9582-49ea-a385-0621dbe33769",
+    "job_url": "https://jobs.ashbyhq.com/ashby/job/7850dae6-9582-49ea-a385-0621dbe33769",
+    "title": "Senior Software Engineer - Product Engineering, Berlin (m/f/d)",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [
+      "Berlin"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "EMEA Engineering",
+    "updated_at": "2025-10-15T17:36:38.684Z"
+  },
+  {
+    "company_slug": "ashby",
+    "company_name": "Ashby",
+    "job_id": "f60b5343-cf2f-4dbf-9819-d20e0c11be01",
+    "job_url": "https://jobs.ashbyhq.com/ashby/job/f60b5343-cf2f-4dbf-9819-d20e0c11be01",
+    "title": "Senior Software Engineer - Product Engineering, Copenhagen",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [
+      "Copenhagen"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "EMEA Engineering",
+    "updated_at": "2025-10-15T17:36:28.328Z"
+  },
+  {
+    "company_slug": "ashby",
+    "company_name": "Ashby",
+    "job_id": "7dcbfb52-f465-46b2-adbb-b6caccafbe0a",
+    "job_url": "https://jobs.ashbyhq.com/ashby/job/7dcbfb52-f465-46b2-adbb-b6caccafbe0a",
+    "title": "Senior Software Engineer - Product Engineering, EMEA",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [
+      "Belgium",
+      "France",
+      "Netherlands",
+      "UK",
+      "Madrid",
+      "Barcelona",
+      "Hamburg",
+      "Munich",
+      "Rome",
+      "Milan",
+      "Finland",
+      "Sweden",
+      "Switzerland",
+      "Norway",
+      "Ireland",
+      "Poland",
+      "Porto",
+      "Lisbon"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "EMEA Engineering",
+    "updated_at": "2025-10-15T17:35:53.003Z"
+  },
+  {
+    "company_slug": "ashby",
+    "company_name": "Ashby",
+    "job_id": "1066eb62-aeca-4880-8d69-f15e9c831ef2",
+    "job_url": "https://jobs.ashbyhq.com/ashby/job/1066eb62-aeca-4880-8d69-f15e9c831ef2",
+    "title": "Senior Software Engineer - Product Engineering, Stockholm",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [
+      "Stockholm"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "EMEA Engineering",
+    "updated_at": "2025-10-14T17:16:41.631Z"
+  },
+  {
+    "company_slug": "ashby",
+    "company_name": "Ashby",
+    "job_id": "4cdb3761-8235-496f-8b6d-6ce56ac8fd77",
+    "job_url": "https://jobs.ashbyhq.com/ashby/job/4cdb3761-8235-496f-8b6d-6ce56ac8fd77",
+    "title": "Senior Software Engineer - Product Engineering, Stuttgart (m/f/d)",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [
+      "Stuttgart"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "EMEA Engineering",
+    "updated_at": "2025-10-15T17:36:20.089Z"
+  },
+  {
+    "company_slug": "ashby",
+    "company_name": "Ashby",
+    "job_id": "e7a6d17e-97da-482f-b530-f66757b74853",
+    "job_url": "https://jobs.ashbyhq.com/ashby/job/e7a6d17e-97da-482f-b530-f66757b74853",
+    "title": "Staff Software Engineer - Product Engineering, EMEA",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [
+      "Belgium",
+      "France",
+      "Netherlands",
+      "Madrid",
+      "Barcelona",
+      "Hamburg",
+      "Munich",
+      "Rome",
+      "Milan",
+      "Finland",
+      "Sweden",
+      "Switzerland",
+      "Norway",
+      "Ireland",
+      "Poland",
+      "Porto",
+      "Lisbon"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "EMEA Engineering",
+    "updated_at": "2025-10-15T17:36:59.985Z"
+  },
+  {
+    "company_slug": "chronospherejobs",
+    "company_name": "Chronosphere",
+    "job_id": "7f780d47-fe55-41c3-ba25-6e2dee8f35d0",
+    "job_url": "https://jobs.ashbyhq.com/chronospherejobs/job/7f780d47-fe55-41c3-ba25-6e2dee8f35d0",
+    "title": "Channel Account Manager, EMEA",
+    "primary_location": "UK - Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "UK - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-10-16T00:11:20.752Z"
+  },
+  {
+    "company_slug": "chronospherejobs",
+    "company_name": "Chronosphere",
+    "job_id": "d7368e8d-3437-4da8-8d41-b55b1d6416c2",
+    "job_url": "https://jobs.ashbyhq.com/chronospherejobs/job/d7368e8d-3437-4da8-8d41-b55b1d6416c2",
+    "title": "Customer Support Engineer - EMEA",
+    "primary_location": "UK - Remote",
+    "secondary_locations": [
+      "Denmark - Remote",
+      "Netherlands - Remote"
+    ],
+    "matched_locations": [
+      "UK - Remote",
+      "Denmark - Remote",
+      "Netherlands - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Customer Success",
+    "updated_at": "2025-08-27T01:55:47.503Z"
+  },
+  {
+    "company_slug": "chronospherejobs",
+    "company_name": "Chronosphere",
+    "job_id": "0b8c3f14-2c9c-4837-b14e-61c8f2678342",
+    "job_url": "https://jobs.ashbyhq.com/chronospherejobs/job/0b8c3f14-2c9c-4837-b14e-61c8f2678342",
+    "title": "Manager, Engineering - Storage  ",
+    "primary_location": "Vilnius, Lithuania - Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Vilnius, Lithuania - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-09-11T17:40:47.599Z"
+  },
+  {
+    "company_slug": "corti",
+    "company_name": "Corti",
+    "job_id": "51db89f4-91e5-4f71-acf6-d2c743c61e17",
+    "job_url": "https://jobs.ashbyhq.com/corti/job/51db89f4-91e5-4f71-acf6-d2c743c61e17",
+    "title": "Join Corti's Talent Community ",
+    "primary_location": "Copenhagen, Denmark",
+    "secondary_locations": [
+      "Brooklyn, New York",
+      "Remote, US",
+      "Remote, Europe"
+    ],
+    "matched_locations": [
+      "Remote, Europe"
+    ],
+    "workplace_type": null,
+    "employment_type": "FullTime",
+    "team_name": "Talent Community ",
+    "updated_at": "2025-07-30T07:55:27.356Z"
+  },
+  {
+    "company_slug": "corti",
+    "company_name": "Corti",
+    "job_id": "519ad829-ad29-404e-8c7a-633e710748e5",
+    "job_url": "https://jobs.ashbyhq.com/corti/job/519ad829-ad29-404e-8c7a-633e710748e5",
+    "title": " Partner Marketing Manager",
+    "primary_location": "Remote, Europe",
+    "secondary_locations": [
+      "London, UK",
+      "Copenhagen, Denmark"
+    ],
+    "matched_locations": [
+      "Remote, Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Commercial",
+    "updated_at": "2025-10-22T07:31:59.347Z"
+  },
+  {
+    "company_slug": "corti",
+    "company_name": "Corti",
+    "job_id": "d079ed7a-fe8f-4d94-81dd-636b96ecc94f",
+    "job_url": "https://jobs.ashbyhq.com/corti/job/d079ed7a-fe8f-4d94-81dd-636b96ecc94f",
+    "title": "Senior Customer Success Engineer (German-speaking)",
+    "primary_location": "Copenhagen, Denmark",
+    "secondary_locations": [
+      "London, UK",
+      "Berlin, Germany",
+      "Remote, Europe"
+    ],
+    "matched_locations": [
+      "Remote, Europe"
+    ],
+    "workplace_type": "Hybrid",
+    "employment_type": "FullTime",
+    "team_name": "Commercial",
+    "updated_at": "2025-10-13T14:35:09.055Z"
+  },
+  {
+    "company_slug": "dandy",
+    "company_name": "Dandy",
+    "job_id": "5ddc9382-8ecf-4ac4-91a2-46798078d026",
+    "job_url": "https://jobs.ashbyhq.com/dandy/job/5ddc9382-8ecf-4ac4-91a2-46798078d026",
+    "title": "Senior Software Engineer II- CAD/3D Algorithms (Europe)",
+    "primary_location": "EU - Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "EU - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "CAD",
+    "updated_at": "2025-09-05T14:35:25.937Z"
+  },
+  {
+    "company_slug": "ema",
+    "company_name": "Ema",
+    "job_id": "f3d535ef-4c26-4a5a-8569-9f24fb2885aa",
+    "job_url": "https://jobs.ashbyhq.com/ema/job/f3d535ef-4c26-4a5a-8569-9f24fb2885aa",
+    "title": "Enterprise Sales Executive - UK",
+    "primary_location": "United Kingdom (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "United Kingdom (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-07-30T08:09:42.128Z"
+  },
+  {
+    "company_slug": "ema",
+    "company_name": "Ema",
+    "job_id": "52b7c0ee-f620-4b24-817e-162d26193a52",
+    "job_url": "https://jobs.ashbyhq.com/ema/job/52b7c0ee-f620-4b24-817e-162d26193a52",
+    "title": "Marketing Lead",
+    "primary_location": "United Kingdom (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "United Kingdom (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Marketing",
+    "updated_at": "2025-08-13T17:02:03.963Z"
+  },
+  {
+    "company_slug": "ema",
+    "company_name": "Ema",
+    "job_id": "117a7016-6dbe-46c0-8209-f4ca624bf6bc",
+    "job_url": "https://jobs.ashbyhq.com/ema/job/117a7016-6dbe-46c0-8209-f4ca624bf6bc",
+    "title": "Partner Manager - UK",
+    "primary_location": "United Kingdom (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "United Kingdom (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-05-07T19:06:11.982Z"
+  },
+  {
+    "company_slug": "ema",
+    "company_name": "Ema",
+    "job_id": "fca5f19f-49a9-4754-9137-025ff71ca483",
+    "job_url": "https://jobs.ashbyhq.com/ema/job/fca5f19f-49a9-4754-9137-025ff71ca483",
+    "title": "Partner Success Architect",
+    "primary_location": "United Kingdom (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "United Kingdom (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-05-27T19:32:37.125Z"
+  },
+  {
+    "company_slug": "ema",
+    "company_name": "Ema",
+    "job_id": "f688f8ab-8030-4b0e-8c46-c94878493df3",
+    "job_url": "https://jobs.ashbyhq.com/ema/job/f688f8ab-8030-4b0e-8c46-c94878493df3",
+    "title": "Sales Strategy & Operations - UK",
+    "primary_location": "United Kingdom (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "United Kingdom (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-09-24T19:21:45.926Z"
+  },
+  {
+    "company_slug": "ema",
+    "company_name": "Ema",
+    "job_id": "4e8f0981-0e24-497f-bdc6-16d2902834aa",
+    "job_url": "https://jobs.ashbyhq.com/ema/job/4e8f0981-0e24-497f-bdc6-16d2902834aa",
+    "title": "Solutions Architect - UK",
+    "primary_location": "United Kingdom (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "United Kingdom (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-09-12T15:14:15.196Z"
+  },
+  {
+    "company_slug": "enode",
+    "company_name": "Enode",
+    "job_id": "5e436ebb-f3bc-4d32-a40e-758220ff0eec",
+    "job_url": "https://jobs.ashbyhq.com/enode/job/5e436ebb-f3bc-4d32-a40e-758220ff0eec",
+    "title": "Business Operations & Automation Engineer",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Operations",
+    "updated_at": "2025-09-26T12:07:21.087Z"
+  },
+  {
+    "company_slug": "horizon3ai",
+    "company_name": "Horizon3 AI",
+    "job_id": "22d498a6-f064-4d2c-9815-fe115904e935",
+    "job_url": "https://jobs.ashbyhq.com/horizon3ai/job/22d498a6-f064-4d2c-9815-fe115904e935",
+    "title": "Account Executive, Benelux",
+    "primary_location": "EMEA, Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "EMEA, Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-10-24T15:07:32.460Z"
+  },
+  {
+    "company_slug": "horizon3ai",
+    "company_name": "Horizon3 AI",
+    "job_id": "59f4d07f-4bee-41bb-b0f1-23af96730a9c",
+    "job_url": "https://jobs.ashbyhq.com/horizon3ai/job/59f4d07f-4bee-41bb-b0f1-23af96730a9c",
+    "title": "Account Executive (Denmark, Norway, Finland)",
+    "primary_location": "EMEA, Remote",
+    "secondary_locations": [
+      "Nordics"
+    ],
+    "matched_locations": [
+      "EMEA, Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-10-24T15:42:42.422Z"
+  },
+  {
+    "company_slug": "horizon3ai",
+    "company_name": "Horizon3 AI",
+    "job_id": "1734605c-c85e-44ba-84e0-0c59e6dbdde5",
+    "job_url": "https://jobs.ashbyhq.com/horizon3ai/job/1734605c-c85e-44ba-84e0-0c59e6dbdde5",
+    "title": "Account Executive, Iberia",
+    "primary_location": "EMEA, Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "EMEA, Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-10-24T15:43:00.146Z"
+  },
+  {
+    "company_slug": "horizon3ai",
+    "company_name": "Horizon3 AI",
+    "job_id": "aa37d464-6e3b-43f3-baab-1fe4b51d2154",
+    "job_url": "https://jobs.ashbyhq.com/horizon3ai/job/aa37d464-6e3b-43f3-baab-1fe4b51d2154",
+    "title": "Enterprise Account Executive, Sweden",
+    "primary_location": "EMEA, Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "EMEA, Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-10-24T15:41:51.169Z"
+  },
+  {
+    "company_slug": "horizon3ai",
+    "company_name": "Horizon3 AI",
+    "job_id": "57d7c279-12f3-4e2b-b76b-946ee9a64b58",
+    "job_url": "https://jobs.ashbyhq.com/horizon3ai/job/57d7c279-12f3-4e2b-b76b-946ee9a64b58",
+    "title": "Senior Technical Customer Success Manager (EMEA)",
+    "primary_location": "EMEA, Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "EMEA, Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Customer Success",
+    "updated_at": "2025-10-30T11:11:22.039Z"
+  },
+  {
+    "company_slug": "jigsaw",
+    "company_name": "Jigsaw",
+    "job_id": "769e65fd-900f-4306-aabc-4617563f6fe0",
+    "job_url": "https://jobs.ashbyhq.com/jigsaw/job/769e65fd-900f-4306-aabc-4617563f6fe0",
+    "title": "Head of Engineering",
+    "primary_location": "London",
+    "secondary_locations": [
+      "Remote within UK"
+    ],
+    "matched_locations": [
+      "Remote within UK"
+    ],
+    "workplace_type": "Hybrid",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-10-17T11:17:24.843Z"
+  },
+  {
+    "company_slug": "jigsaw",
+    "company_name": "Jigsaw",
+    "job_id": "399c3c46-6607-44d2-bf1f-6f11cbf824f8",
+    "job_url": "https://jobs.ashbyhq.com/jigsaw/job/399c3c46-6607-44d2-bf1f-6f11cbf824f8",
+    "title": "Product Success Associate - US East Coast Hours",
+    "primary_location": "Remote within UK",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote within UK"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product Success",
+    "updated_at": "2025-10-21T12:36:15.186Z"
+  },
+  {
+    "company_slug": "kustomer",
+    "company_name": "Kustomer",
+    "job_id": "4232b3a9-d35a-4f36-ac47-80a562bf54b0",
+    "job_url": "https://jobs.ashbyhq.com/kustomer/job/4232b3a9-d35a-4f36-ac47-80a562bf54b0",
+    "title": "Enterprise Account Executive, EMEA",
+    "primary_location": "UK - Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "UK - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Enterprise Sales",
+    "updated_at": "2025-08-22T20:12:47.837Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "59802a6b-ec6e-49df-b3ff-c570710f754d",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/59802a6b-ec6e-49df-b3ff-c570710f754d",
+    "title": "AI Red Team Engineer - Arabic",
+    "primary_location": "Egypt (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Egypt (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-16T20:08:59.102Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "c1b49868-c4ae-475e-87dc-45ef1831cde1",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/c1b49868-c4ae-475e-87dc-45ef1831cde1",
+    "title": "AI Red Team Engineer - Dutch",
+    "primary_location": "Netherlands (Remote)",
+    "secondary_locations": [
+      "Belgium (Remote)"
+    ],
+    "matched_locations": [
+      "Netherlands (Remote)",
+      "Belgium (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-17T02:04:56.059Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "7a75b62d-9bd5-47f8-bdb5-39ff1af60dd4",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/7a75b62d-9bd5-47f8-bdb5-39ff1af60dd4",
+    "title": "AI Red Team Engineer - English",
+    "primary_location": "UK (Remote)",
+    "secondary_locations": [
+      "USA (Remote)"
+    ],
+    "matched_locations": [
+      "UK (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-16T20:23:36.004Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "ea0a26ca-c851-4be8-b7c8-604d4044cfe9",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/ea0a26ca-c851-4be8-b7c8-604d4044cfe9",
+    "title": "AI Red Team Engineer - French",
+    "primary_location": "France (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "France (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-17T01:33:04.492Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "7df71726-b98c-4aaa-bb66-be4a84ecf046",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/7df71726-b98c-4aaa-bb66-be4a84ecf046",
+    "title": "AI Red Team Engineer - German",
+    "primary_location": "Germany (Remote)",
+    "secondary_locations": [
+      "Switzerland (Remote)"
+    ],
+    "matched_locations": [
+      "Germany (Remote)",
+      "Switzerland (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-17T01:36:55.842Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "5113c231-34d6-4134-961a-b2c949957c70",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/5113c231-34d6-4134-961a-b2c949957c70",
+    "title": "AI Red Team Engineer - Italian",
+    "primary_location": "Italy (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Italy (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-17T01:41:09.005Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "ccba8792-aef3-41d8-bcfe-96eb14eaa8fc",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/ccba8792-aef3-41d8-bcfe-96eb14eaa8fc",
+    "title": "AI Red Team Engineer - Polish",
+    "primary_location": "Poland (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Poland (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-17T01:47:25.257Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "83869db8-5d8a-4198-aa36-760d347e039c",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/83869db8-5d8a-4198-aa36-760d347e039c",
+    "title": "AI Red Team Engineer - Portuguese",
+    "primary_location": "Portugal (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Portugal (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-17T01:49:03.187Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "99c0cd94-7c77-4289-8340-fdbe8cc6de6f",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/99c0cd94-7c77-4289-8340-fdbe8cc6de6f",
+    "title": "AI Red Team Engineer - Russian",
+    "primary_location": "Germany (Remote)",
+    "secondary_locations": [
+      "Lithuania (Remote)",
+      "Israel",
+      "Latvia (remote)",
+      "Estonia (Remote)"
+    ],
+    "matched_locations": [
+      "Germany (Remote)",
+      "Lithuania (Remote)",
+      "Latvia (remote)",
+      "Estonia (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-17T01:54:59.375Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "b183655a-5fec-48ce-ae09-02dadf2ed75b",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/b183655a-5fec-48ce-ae09-02dadf2ed75b",
+    "title": "AI Red Team Engineer - Spanish (Spain)",
+    "primary_location": "Spain (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Spain (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-17T02:01:05.609Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "67c9a41f-a933-4f23-ba73-47391279cd75",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/67c9a41f-a933-4f23-ba73-47391279cd75",
+    "title": "AI Red Team Engineer - Ukrainian",
+    "primary_location": "Ukraine (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Ukraine (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-17T02:02:13.934Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "88125d5f-d669-4724-81ed-e5f986175b9a",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/88125d5f-d669-4724-81ed-e5f986175b9a",
+    "title": "Anaang Translation Expert wanted",
+    "primary_location": "Nigeria (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Nigeria (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-21T08:50:53.744Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "83f2d424-a797-43b3-9beb-4ece910f8b73",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/83f2d424-a797-43b3-9beb-4ece910f8b73",
+    "title": "Berom Translation Experts wanted",
+    "primary_location": "Nigeria (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Nigeria (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-21T08:49:45.030Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "ddc5574e-a1cb-4368-8365-af0077face1f",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/ddc5574e-a1cb-4368-8365-af0077face1f",
+    "title": "Cape Verdean Creole (Kabuverdianu) Theology Translator ",
+    "primary_location": "Cape Verde | Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Cape Verde | Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-09T17:04:31.678Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "1e05eff9-c751-4d3a-952c-48943d80a961",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/1e05eff9-c751-4d3a-952c-48943d80a961",
+    "title": "Customer Success Manager, Enterprise (Translation & Localization industry experience required - Expression of Interest)",
+    "primary_location": "Spain (Remote)",
+    "secondary_locations": [
+      "London, UK"
+    ],
+    "matched_locations": [
+      "Spain (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Customer Success",
+    "updated_at": "2025-07-14T13:40:46.133Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "f73a8adb-f1ff-48c6-bac9-9e374f2dd514",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/f73a8adb-f1ff-48c6-bac9-9e374f2dd514",
+    "title": "Customer Success Manager, Mid Market (Translation & Localization industry experience required - Expression of Interest)",
+    "primary_location": "UK (Remote)",
+    "secondary_locations": [
+      "Spain (Remote)"
+    ],
+    "matched_locations": [
+      "UK (Remote)",
+      "Spain (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Customer Success",
+    "updated_at": "2025-09-18T18:22:11.597Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "0313795d-7e11-4c1c-814a-cf9aa81010a3",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/0313795d-7e11-4c1c-814a-cf9aa81010a3",
+    "title": "Czech Linguists",
+    "primary_location": "Czech Republic (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Czech Republic (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-07-30T09:35:56.203Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "fab35559-6485-4e2e-9239-ef6fc711b23a",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/fab35559-6485-4e2e-9239-ef6fc711b23a",
+    "title": "DTP Specialist",
+    "primary_location": "India (Remote)",
+    "secondary_locations": [
+      "Romania (Remote)"
+    ],
+    "matched_locations": [
+      "Romania (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "EMEA",
+    "updated_at": "2025-07-30T09:35:55.531Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "28d05ec4-2bf5-409f-b6c7-82578ae318d5",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/28d05ec4-2bf5-409f-b6c7-82578ae318d5",
+    "title": "Ebira Translation Expert wanted",
+    "primary_location": "Nigeria (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Nigeria (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-21T08:47:46.905Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "b428ffe9-9b5d-4533-b629-f0ceee356684",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/b428ffe9-9b5d-4533-b629-f0ceee356684",
+    "title": "Ejagham (Jagham/Ekoi) Translation Experts wanted",
+    "primary_location": "Nigeria (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Nigeria (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-21T08:50:03.822Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "fc625624-3bfb-48e0-a413-b462da649b1b",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/fc625624-3bfb-48e0-a413-b462da649b1b",
+    "title": "Ekit (Eket/Ekid) Translation Experts wanted",
+    "primary_location": "Nigeria (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Nigeria (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-21T08:50:33.755Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "a41b50ab-d88d-4108-be10-7bbda6104294",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/a41b50ab-d88d-4108-be10-7bbda6104294",
+    "title": "English Native Linguists Needed (Italian, Spanish, Chinese, Turkish into English)",
+    "primary_location": "UK (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "UK (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-29T08:03:34.475Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "4440d418-382d-4017-8553-01ef571b2a65",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/4440d418-382d-4017-8553-01ef571b2a65",
+    "title": "Enterprise Account Executive",
+    "primary_location": "London, UK",
+    "secondary_locations": [
+      "UK (Remote)",
+      "Dublin, Ireland",
+      "Ireland (Remote)",
+      "Germany (Remote)",
+      "Spain (Remote)",
+      "Portugal (Remote)"
+    ],
+    "matched_locations": [
+      "UK (Remote)",
+      "Ireland (Remote)",
+      "Germany (Remote)",
+      "Spain (Remote)",
+      "Portugal (Remote)"
+    ],
+    "workplace_type": null,
+    "employment_type": "FullTime",
+    "team_name": "Commercial",
+    "updated_at": "2025-07-30T09:36:06.955Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "471a8b7f-8704-41fe-b16d-f4d39c115dc1",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/471a8b7f-8704-41fe-b16d-f4d39c115dc1",
+    "title": "Esan Translation Experts wanted",
+    "primary_location": "Nigeria (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Nigeria (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-21T08:47:32.208Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "1c331254-bb40-4ecb-9583-eb71a39b9f7e",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/1c331254-bb40-4ecb-9583-eb71a39b9f7e",
+    "title": "Faroese Linguists for Technology content",
+    "primary_location": "Norway (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Norway (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-23T16:31:20.723Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "bad7d406-516d-4e55-bc87-c3f0d0002c06",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/bad7d406-516d-4e55-bc87-c3f0d0002c06",
+    "title": "Finnish Medical Translators needed",
+    "primary_location": "Finland (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Finland (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-07-02T22:40:48.631Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "24fdf12d-9cb6-4507-8a1c-b7cc036027ef",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/24fdf12d-9cb6-4507-8a1c-b7cc036027ef",
+    "title": "French Medical Translators needed",
+    "primary_location": "Czech Republic (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Czech Republic (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-07-30T09:36:06.443Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "ee4b660d-f2d1-415f-ad57-f665018fda0f",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/ee4b660d-f2d1-415f-ad57-f665018fda0f",
+    "title": "Fulfulde Translation Experts wanted",
+    "primary_location": "Nigeria (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Nigeria (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-21T08:50:17.151Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "dd46c485-14e1-45f9-8a38-7ff7d265f417",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/dd46c485-14e1-45f9-8a38-7ff7d265f417",
+    "title": "German Medical Translators needed",
+    "primary_location": "Germany (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Germany (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-07-30T09:35:55.739Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "1667d463-1306-45be-9e14-1066a2ca1b11",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/1667d463-1306-45be-9e14-1066a2ca1b11",
+    "title": "Idoma Translation Expert wanted",
+    "primary_location": "Nigeria (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Nigeria (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-21T16:38:50.233Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "fe116856-6514-4eef-88cb-858838184668",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/fe116856-6514-4eef-88cb-858838184668",
+    "title": "IgalaTranslation Expert wanted",
+    "primary_location": "Nigeria (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Nigeria (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-21T16:40:32.908Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "c8edce7d-c413-4e8a-b088-54bd50aff75e",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/c8edce7d-c413-4e8a-b088-54bd50aff75e",
+    "title": "Indonesian Linguists Needed",
+    "primary_location": "France (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "France (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-07-30T09:36:05.419Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "c68a3dfc-f491-41bc-bf32-30e89ed26e77",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/c68a3dfc-f491-41bc-bf32-30e89ed26e77",
+    "title": "Irish Linguists Needed",
+    "primary_location": "Ireland (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Ireland (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-10T11:23:58.636Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "d037a7eb-2255-4a33-ab0b-09be179f470a",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/d037a7eb-2255-4a33-ab0b-09be179f470a",
+    "title": "LILT | Bulgarian AI Content Experts",
+    "primary_location": "Bulgaria (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Bulgaria (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:51:52.395Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "00e0e527-2b8a-4b62-98a9-1beee5b5ba58",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/00e0e527-2b8a-4b62-98a9-1beee5b5ba58",
+    "title": "LILT | Cantonese AI Content Experts",
+    "primary_location": "Taiwan (Remote)",
+    "secondary_locations": [
+      "Australia (Remote)",
+      "Malaysia (Remote)",
+      "USA (Remote)",
+      "UK (Remote)"
+    ],
+    "matched_locations": [
+      "UK (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T18:01:32.292Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "03a22a88-b1a3-4b7b-9bda-4ac03656f90a",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/03a22a88-b1a3-4b7b-9bda-4ac03656f90a",
+    "title": "LILT | Cantonese Linguists for AI projects ",
+    "primary_location": "Taiwan (Remote)",
+    "secondary_locations": [
+      "Malaysia (Remote)",
+      "USA (Remote)",
+      "UK (Remote)"
+    ],
+    "matched_locations": [
+      "UK (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-16T20:00:39.831Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "06c25aef-4c17-438d-9846-b86f892abf85",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/06c25aef-4c17-438d-9846-b86f892abf85",
+    "title": "LILT | Croatian AI Content Experts",
+    "primary_location": "Croatia (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Croatia (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:52:54.265Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "571c96ea-3789-4b33-bb86-7a3566ba6251",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/571c96ea-3789-4b33-bb86-7a3566ba6251",
+    "title": "LILT | Czech AI Content Experts",
+    "primary_location": "Czech Republic (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Czech Republic (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:52:45.325Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "b5f2ad69-9317-4e27-a55a-061fa982805f",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/b5f2ad69-9317-4e27-a55a-061fa982805f",
+    "title": "LILT | Danish AI Content Experts",
+    "primary_location": "Denmark (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Denmark (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:53:36.994Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "54d970dc-9f29-4981-9efa-3de035bbb0d9",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/54d970dc-9f29-4981-9efa-3de035bbb0d9",
+    "title": "LILT | Dutch AI Content Experts",
+    "primary_location": "Netherlands (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Netherlands (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:54:22.065Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "77125cf8-9e7f-41f2-854f-86ad1412cdf1",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/77125cf8-9e7f-41f2-854f-86ad1412cdf1",
+    "title": "LILT | Egyptian Arabic AI Content Experts",
+    "primary_location": "Egypt (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Egypt (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T18:00:16.086Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "8e9a8dc5-6e85-409b-9925-10d7d8da53ca",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/8e9a8dc5-6e85-409b-9925-10d7d8da53ca",
+    "title": "LILT | Finnish AI Content Experts",
+    "primary_location": "Finland (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Finland (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:54:04.789Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "96b767cc-afcd-4ebb-8e94-d7194939d1e6",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/96b767cc-afcd-4ebb-8e94-d7194939d1e6",
+    "title": "LILT | French AI Content Experts",
+    "primary_location": "France (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "France (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T18:01:23.959Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "d14b3cd5-dce6-438b-997a-56891228494a",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/d14b3cd5-dce6-438b-997a-56891228494a",
+    "title": "LILT | German AI Content Experts",
+    "primary_location": "Germany (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Germany (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T18:01:14.919Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "ca10d54f-82f6-487d-9833-4ecbef1de58d",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/ca10d54f-82f6-487d-9833-4ecbef1de58d",
+    "title": "LILT | Greek AI Content Experts",
+    "primary_location": "Greece (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Greece (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:51:40.043Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "a49c3b6b-d5a8-41bd-b97d-ba90d54eee7b",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/a49c3b6b-d5a8-41bd-b97d-ba90d54eee7b",
+    "title": "LILT | Hungarian AI Content Experts",
+    "primary_location": "Hungary (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Hungary (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:53:45.788Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "457d06bb-9994-453f-8fa4-a9e48b1784d4",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/457d06bb-9994-453f-8fa4-a9e48b1784d4",
+    "title": "LILT | Italian AI Content Experts",
+    "primary_location": "Italy (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Italy (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:50:58.233Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "ca7bf405-e7e6-4ef0-bd6e-11df3a327fbd",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/ca7bf405-e7e6-4ef0-bd6e-11df3a327fbd",
+    "title": "LILT | Lithuanian AI Content Experts",
+    "primary_location": "Lithuania (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Lithuania (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:51:29.387Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "1ee78155-494c-4eb1-8110-33ee9827e1e1",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/1ee78155-494c-4eb1-8110-33ee9827e1e1",
+    "title": "LILT | Mandarin/Simplified Chinese AI Content Experts",
+    "primary_location": "USA (Remote)",
+    "secondary_locations": [
+      "Canada (Remote)",
+      "Australia (Remote)",
+      "UK (Remote)"
+    ],
+    "matched_locations": [
+      "UK (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T18:02:42.232Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "5c77587c-d624-4cac-8cbd-562795693475",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/5c77587c-d624-4cac-8cbd-562795693475",
+    "title": "LILT | Norwegian AI Content Experts",
+    "primary_location": "Norway (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Norway (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:52:25.611Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "674af623-b09f-407c-9522-e033f7a1c589",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/674af623-b09f-407c-9522-e033f7a1c589",
+    "title": "LILT | Polish AI Content Experts",
+    "primary_location": "Poland (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Poland (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:54:13.049Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "ecc75d8a-d0aa-4326-9013-d9f06f1758d6",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/ecc75d8a-d0aa-4326-9013-d9f06f1758d6",
+    "title": "LILT | Romanian AI Content Experts",
+    "primary_location": "Romania (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Romania (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:53:16.434Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "9c03fdc2-f556-49f7-9120-dd9bc04633d2",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/9c03fdc2-f556-49f7-9120-dd9bc04633d2",
+    "title": "LILT | Russian AI Content Experts",
+    "primary_location": "Ukraine (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Ukraine (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T18:01:07.055Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "3b7e0bd2-83cd-4263-b13a-83ab410d5149",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/3b7e0bd2-83cd-4263-b13a-83ab410d5149",
+    "title": "LILT | Slovak AI Content Experts",
+    "primary_location": "Slovakia (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Slovakia (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:53:04.803Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "32165584-b9c9-446c-86ff-26628326dce7",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/32165584-b9c9-446c-86ff-26628326dce7",
+    "title": "LILT | Slovenian AI Content Experts",
+    "primary_location": "Slovenia (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Slovenia (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:52:01.411Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "3ee1bac9-ca8a-47b8-8874-50daf3a4085a",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/3ee1bac9-ca8a-47b8-8874-50daf3a4085a",
+    "title": "LILT | Swahili AI Content Experts",
+    "primary_location": "Kenya (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Kenya (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T18:01:41.549Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "2f6d3bf2-68cd-4571-8f5f-39eaa41f7b9c",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/2f6d3bf2-68cd-4571-8f5f-39eaa41f7b9c",
+    "title": "LILT | Swedish AI Content Experts",
+    "primary_location": "Sweden (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Sweden (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:53:55.957Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "e353769d-b5f6-494b-9c87-b567abb99cd0",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/e353769d-b5f6-494b-9c87-b567abb99cd0",
+    "title": "LILT | Turkish AI Content Experts",
+    "primary_location": "Turkey (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Turkey (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T18:02:30.105Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "13ba8074-5325-4dd1-8fea-593e2a525382",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/13ba8074-5325-4dd1-8fea-593e2a525382",
+    "title": "LILT | Ukrainian AI Content Experts",
+    "primary_location": "Ukraine (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Ukraine (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-20T17:52:11.762Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "bbc52ce8-d753-4048-ba2a-027e2e34e0b5",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/bbc52ce8-d753-4048-ba2a-027e2e34e0b5",
+    "title": "Localization Project Coordinator, Production (Contractor)",
+    "primary_location": "Romania (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Romania (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Offshore Hubs",
+    "updated_at": "2025-07-30T09:36:06.323Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "7a28d298-63a1-4f2e-887f-2ae879849471",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/7a28d298-63a1-4f2e-887f-2ae879849471",
+    "title": "Localization Project Manager, Production - Life Science (Contractor)",
+    "primary_location": "India (Remote)",
+    "secondary_locations": [
+      "Romania (Remote)",
+      "Argentina (Remote)"
+    ],
+    "matched_locations": [
+      "Romania (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Production",
+    "updated_at": "2025-07-30T09:36:06.408Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "98079dd8-ef11-4608-b5ec-aa77d9425566",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/98079dd8-ef11-4608-b5ec-aa77d9425566",
+    "title": "Localizaton Project Manager, Production",
+    "primary_location": "India (Remote)",
+    "secondary_locations": [
+      "Argentina (Remote)",
+      "Romania (Remote)"
+    ],
+    "matched_locations": [
+      "Romania (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Production",
+    "updated_at": "2025-07-30T09:36:06.312Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "0815b2a3-ae00-40e0-a27a-411f84742b18",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/0815b2a3-ae00-40e0-a27a-411f84742b18",
+    "title": "Multi-Media Specialist",
+    "primary_location": "India (Remote)",
+    "secondary_locations": [
+      "Romania (Remote)",
+      "Argentina (Remote)"
+    ],
+    "matched_locations": [
+      "Romania (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Contractors",
+    "updated_at": "2025-08-21T19:27:06.803Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "fa6e6a3f-6b4c-4008-9b0b-8f16f9f78c46",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/fa6e6a3f-6b4c-4008-9b0b-8f16f9f78c46",
+    "title": "nlNL Medical Translators needed",
+    "primary_location": "Netherlands (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Netherlands (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-07-30T09:36:00.951Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "2aaa946c-865a-469f-9269-c0f6973e6e8a",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/2aaa946c-865a-469f-9269-c0f6973e6e8a",
+    "title": "Norwegian Translators Needed",
+    "primary_location": "Norway (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Norway (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-10T11:26:02.045Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "b85dc783-8528-4726-a8c2-c3bfb1127d64",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/b85dc783-8528-4726-a8c2-c3bfb1127d64",
+    "title": "Polish Linguists Needed",
+    "primary_location": "France (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "France (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-07-30T09:36:05.429Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "9211e4e3-cce0-46e6-8a2c-8b0fc914171f",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/9211e4e3-cce0-46e6-8a2c-8b0fc914171f",
+    "title": "Portuguese (Portugal) Translators Needed",
+    "primary_location": "Portugal (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Portugal (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-29T16:55:23.401Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "71fad2a4-b8c5-4cd1-a752-b26ecd1085f7",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/71fad2a4-b8c5-4cd1-a752-b26ecd1085f7",
+    "title": "Production Strategist (AI Data Services)",
+    "primary_location": "UK (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "UK (Remote)"
+    ],
+    "workplace_type": "OnSite",
+    "employment_type": "FullTime",
+    "team_name": "Production",
+    "updated_at": "2025-10-01T19:42:35.202Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "b555bc58-d5ca-4d78-85c1-471cfa077b95",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/b555bc58-d5ca-4d78-85c1-471cfa077b95",
+    "title": "Serbian Medical Translators needed",
+    "primary_location": "Serbia (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Serbia (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-07-02T22:33:42.592Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "ae146b7b-642a-47fc-aa4f-a328bd046736",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/ae146b7b-642a-47fc-aa4f-a328bd046736",
+    "title": "Southeast Ijo (Ijaw)Translation Expert wanted",
+    "primary_location": "Nigeria (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Nigeria (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-21T16:45:10.901Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "4876c208-bd69-43a7-82cc-3d3d07b8e9ab",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/4876c208-bd69-43a7-82cc-3d3d07b8e9ab",
+    "title": "Swedish Translators Needed",
+    "primary_location": "Sweden (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Sweden (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-23T13:06:14.466Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "df5dab4b-ac07-4370-a058-4fb2a78cc1b0",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/df5dab4b-ac07-4370-a058-4fb2a78cc1b0",
+    "title": "Talent Recruitment Manager- AI Data Solutions",
+    "primary_location": "Argentina (Remote)",
+    "secondary_locations": [
+      "Romania (Remote)",
+      "Spain (Remote)"
+    ],
+    "matched_locations": [
+      "Romania (Remote)",
+      "Spain (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Talent and Community",
+    "updated_at": "2025-09-12T17:53:12.170Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "92da05c3-c3a2-40d5-a403-4ceceb5d9933",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/92da05c3-c3a2-40d5-a403-4ceceb5d9933",
+    "title": "Translators FROM GERMAN into Icelandic needed",
+    "primary_location": "Iceland (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Iceland (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Talent and Community",
+    "updated_at": "2025-07-02T22:23:50.289Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "cc40bc9f-66b7-4211-b0b4-4ce755a0f0a0",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/cc40bc9f-66b7-4211-b0b4-4ce755a0f0a0",
+    "title": "Translators FROM GERMAN into Maltese needed",
+    "primary_location": "Malta (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Malta (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Talent and Community",
+    "updated_at": "2025-07-02T22:20:30.726Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "ab9afe11-d2f5-41b9-afa2-a4f97fcff4ad",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/ab9afe11-d2f5-41b9-afa2-a4f97fcff4ad",
+    "title": "Translators FROM GERMAN into Slovak needed",
+    "primary_location": "Slovakia (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Slovakia (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-07-30T09:36:05.804Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "a16f19ff-e775-4fd7-be76-d5836072c9dd",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/a16f19ff-e775-4fd7-be76-d5836072c9dd",
+    "title": "Ukranian Medical Translators needed",
+    "primary_location": "Ukraine (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Ukraine (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-07-30T09:36:01.017Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "835718b5-df5c-44f5-af5e-6788586583e1",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/835718b5-df5c-44f5-af5e-6788586583e1",
+    "title": "Uzbek Finance/Marketing Transcreation Linguists",
+    "primary_location": "Uzbekistan (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Uzbekistan (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-23T16:52:32.327Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "937dfe3b-c3bc-4714-a9a3-d9e7c425db08",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/937dfe3b-c3bc-4714-a9a3-d9e7c425db08",
+    "title": "Voice Talent Required",
+    "primary_location": "UK (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "UK (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-07-16T15:20:07.503Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "dc763202-6423-4b71-ba9f-f838775061d9",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/dc763202-6423-4b71-ba9f-f838775061d9",
+    "title": "Voice Talent Required - Afrikaans",
+    "primary_location": "South Africa (remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "South Africa (remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-07-17T12:16:45.573Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "98519459-b32b-4612-8a27-fc14120199c0",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/98519459-b32b-4612-8a27-fc14120199c0",
+    "title": "Voice Talent Required - Basque",
+    "primary_location": "Spain (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Spain (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-12T07:44:47.364Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "c356244a-e254-4e33-9628-857e98623e36",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/c356244a-e254-4e33-9628-857e98623e36",
+    "title": "Voice Talent Required - Bulgarian",
+    "primary_location": "Bulgaria (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Bulgaria (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-12T07:47:42.508Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "6f0471dc-154a-4f22-bfb5-99c1b6302ecd",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/6f0471dc-154a-4f22-bfb5-99c1b6302ecd",
+    "title": "Voice Talent Required - Croatian",
+    "primary_location": "Croatia (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Croatia (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-12T07:51:22.259Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "29a3cd84-d959-4ef6-8d32-882116d9ed3f",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/29a3cd84-d959-4ef6-8d32-882116d9ed3f",
+    "title": "Voice Talent Required - Galician",
+    "primary_location": "Spain (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Spain (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-12T07:45:20.085Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "ca859c74-a628-4c43-ae35-b3fb0bb41e67",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/ca859c74-a628-4c43-ae35-b3fb0bb41e67",
+    "title": "Voice Talent Required - GREEK",
+    "primary_location": "Greece (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Greece (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-12T07:46:11.765Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "34b5fe36-9a2b-4ef2-bae7-21b3d3ee77a8",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/34b5fe36-9a2b-4ef2-bae7-21b3d3ee77a8",
+    "title": "Voice Talent Required - Hungarian",
+    "primary_location": "Hungary (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Hungary (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-12T07:46:51.833Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "ed810bf4-75a6-46dc-9c45-3ed1d607f40a",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/ed810bf4-75a6-46dc-9c45-3ed1d607f40a",
+    "title": "Voice Talent Required - Portuguese (Portugal)",
+    "primary_location": "Portugal (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Portugal (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-12T07:42:40.725Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "497b4b77-94b6-4015-b20e-b26421ffa11a",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/497b4b77-94b6-4015-b20e-b26421ffa11a",
+    "title": "Voice Talent Required - Serbian",
+    "primary_location": "Serbia (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Serbia (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-12T07:49:10.746Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "afdeb2a8-8d53-4496-a3db-9f71936ba861",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/afdeb2a8-8d53-4496-a3db-9f71936ba861",
+    "title": "Voice Talent Required - Slovak",
+    "primary_location": "Slovakia (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Slovakia (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-12T07:55:46.599Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "9c1e3a4b-cfc9-4e02-9d95-c3b5086a4267",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/9c1e3a4b-cfc9-4e02-9d95-c3b5086a4267",
+    "title": "Voice Talent Required - Spanish (Spain)",
+    "primary_location": "Spain (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Spain (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-12T07:40:01.185Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "fd1f2153-4763-40e1-9b48-dc919686a1d4",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/fd1f2153-4763-40e1-9b48-dc919686a1d4",
+    "title": "Voice Talent Required - Ukrainian",
+    "primary_location": "Ukraine (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Ukraine (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-09-12T07:58:41.228Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "7b4a5859-836d-4e40-a8f3-459d0072facd",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/7b4a5859-836d-4e40-a8f3-459d0072facd",
+    "title": "Voice Talent Wanted - English",
+    "primary_location": "UK (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "UK (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-16T13:29:47.732Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "e059dd21-a0d1-42b3-a26d-c195b04592dc",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/e059dd21-a0d1-42b3-a26d-c195b04592dc",
+    "title": "Voice Talent Wanted - French",
+    "primary_location": "France (Remote)",
+    "secondary_locations": [
+      "Belgium (Remote)"
+    ],
+    "matched_locations": [
+      "France (Remote)",
+      "Belgium (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-14T19:31:19.643Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "e4ebbc4b-39cd-46ac-9374-aa1bc2e90a51",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/e4ebbc4b-39cd-46ac-9374-aa1bc2e90a51",
+    "title": "Voice Talent Wanted - German",
+    "primary_location": "Germany (Remote)",
+    "secondary_locations": [
+      "Berlin, Germany"
+    ],
+    "matched_locations": [
+      "Germany (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-30T15:29:58.540Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "9db623a7-6257-4460-9540-41446aaf2ea1",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/9db623a7-6257-4460-9540-41446aaf2ea1",
+    "title": "Voice Talent Wanted - Gulf Arabic",
+    "primary_location": "Saudi Arabia (remote)",
+    "secondary_locations": [
+      "United Arab Emirates (remote)"
+    ],
+    "matched_locations": [
+      "Saudi Arabia (remote)",
+      "United Arab Emirates (remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-30T12:29:34.058Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "9f9309e1-40d1-4515-9983-7ca6c7e9b1ca",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/9f9309e1-40d1-4515-9983-7ca6c7e9b1ca",
+    "title": "Voice Talent Wanted - Italian",
+    "primary_location": "Italy (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Italy (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-14T20:44:31.527Z"
+  },
+  {
+    "company_slug": "lilt",
+    "company_name": "LILT",
+    "job_id": "dba393fe-6627-4837-845a-1d16d0728055",
+    "job_url": "https://jobs.ashbyhq.com/lilt/job/dba393fe-6627-4837-845a-1d16d0728055",
+    "title": "Voice Talent Wanted - Russian",
+    "primary_location": "Ukraine (Remote)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Ukraine (Remote)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Translators & Linguists",
+    "updated_at": "2025-10-30T12:23:59.611Z"
+  },
+  {
+    "company_slug": "liveflow",
+    "company_name": "LiveFlow",
+    "job_id": "1d6e0f1b-d176-40a0-8195-9f0a15c60a5a",
+    "job_url": "https://jobs.ashbyhq.com/liveflow/job/1d6e0f1b-d176-40a0-8195-9f0a15c60a5a",
+    "title": "Platform Engineer",
+    "primary_location": "Remote",
+    "secondary_locations": [
+      "Remote (Europe)",
+      "Remote (Brazil)"
+    ],
+    "matched_locations": [
+      "Remote (Europe)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering ",
+    "updated_at": "2025-07-08T14:29:30.071Z"
+  },
+  {
+    "company_slug": "liveflow",
+    "company_name": "LiveFlow",
+    "job_id": "4f3f4e32-76bf-4fc2-8afc-4b6db9d969b2",
+    "job_url": "https://jobs.ashbyhq.com/liveflow/job/4f3f4e32-76bf-4fc2-8afc-4b6db9d969b2",
+    "title": "Senior Full Stack Engineer",
+    "primary_location": "Remote",
+    "secondary_locations": [
+      "Remote (Europe)",
+      "Remote (Brazil)"
+    ],
+    "matched_locations": [
+      "Remote (Europe)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering ",
+    "updated_at": "2025-07-30T09:18:32.409Z"
+  },
+  {
+    "company_slug": "masabi",
+    "company_name": "Masabi",
+    "job_id": "a6206022-bcc0-475f-b1d1-c89e5b550d5b",
+    "job_url": "https://jobs.ashbyhq.com/masabi/job/a6206022-bcc0-475f-b1d1-c89e5b550d5b",
+    "title": "Chief Software Architect",
+    "primary_location": "UK - Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "UK - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-09-24T17:35:20.929Z"
+  },
+  {
+    "company_slug": "masabi",
+    "company_name": "Masabi",
+    "job_id": "1d5c39cc-093d-4739-b326-64338f3e8cd8",
+    "job_url": "https://jobs.ashbyhq.com/masabi/job/1d5c39cc-093d-4739-b326-64338f3e8cd8",
+    "title": "Product Designer (12-month FTC)",
+    "primary_location": "UK - Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "UK - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product",
+    "updated_at": "2025-10-23T11:11:10.472Z"
+  },
+  {
+    "company_slug": "mazehq",
+    "company_name": "Maze",
+    "job_id": "dc1cb28c-c866-4fba-a991-6ae8c7ad4128",
+    "job_url": "https://jobs.ashbyhq.com/mazehq/job/dc1cb28c-c866-4fba-a991-6ae8c7ad4128",
+    "title": "Backend Engineer (AI Agents)",
+    "primary_location": "Remote (Europe)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote (Europe)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-07-30T08:55:59.177Z"
+  },
+  {
+    "company_slug": "mazehq",
+    "company_name": "Maze",
+    "job_id": "22e33eb0-a964-419d-a6c7-e1b98394d70b",
+    "job_url": "https://jobs.ashbyhq.com/mazehq/job/22e33eb0-a964-419d-a6c7-e1b98394d70b",
+    "title": "Backend Engineer (Data Engineering)",
+    "primary_location": "Remote (Europe)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote (Europe)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-04-23T17:13:06.622Z"
+  },
+  {
+    "company_slug": "mazehq",
+    "company_name": "Maze",
+    "job_id": "08e98fbd-85e5-4c2d-8d5b-6779a5679952",
+    "job_url": "https://jobs.ashbyhq.com/mazehq/job/08e98fbd-85e5-4c2d-8d5b-6779a5679952",
+    "title": "Customer Onboarding Manager",
+    "primary_location": "Remote (UK)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote (UK)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "GTM",
+    "updated_at": "2025-10-20T21:11:27.560Z"
+  },
+  {
+    "company_slug": "mazehq",
+    "company_name": "Maze",
+    "job_id": "d366a1a7-33bf-4aba-be9e-4dd433ac572c",
+    "job_url": "https://jobs.ashbyhq.com/mazehq/job/d366a1a7-33bf-4aba-be9e-4dd433ac572c",
+    "title": "Infra/DevOps Engineer",
+    "primary_location": "Remote (Europe)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote (Europe)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-09-10T20:52:11.392Z"
+  },
+  {
+    "company_slug": "mazehq",
+    "company_name": "Maze",
+    "job_id": "2b47821e-28e5-4fb4-bc46-f3f313f025f1",
+    "job_url": "https://jobs.ashbyhq.com/mazehq/job/2b47821e-28e5-4fb4-bc46-f3f313f025f1",
+    "title": "Product Manager",
+    "primary_location": "Remote (Europe)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote (Europe)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product",
+    "updated_at": "2025-10-20T19:22:25.716Z"
+  },
+  {
+    "company_slug": "mazehq",
+    "company_name": "Maze",
+    "job_id": "2a33a048-563e-4a02-bb9d-704bcb71792d",
+    "job_url": "https://jobs.ashbyhq.com/mazehq/job/2a33a048-563e-4a02-bb9d-704bcb71792d",
+    "title": "Security Engineer (Internal)",
+    "primary_location": "Remote (Europe)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote (Europe)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-10-20T21:24:00.144Z"
+  },
+  {
+    "company_slug": "mazehq",
+    "company_name": "Maze",
+    "job_id": "57602f80-6363-47b2-a8c5-c8fc3c538d00",
+    "job_url": "https://jobs.ashbyhq.com/mazehq/job/57602f80-6363-47b2-a8c5-c8fc3c538d00",
+    "title": "Security Engineer & Researcher",
+    "primary_location": "Remote (Europe)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote (Europe)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product",
+    "updated_at": "2025-10-20T18:12:44.126Z"
+  },
+  {
+    "company_slug": "mazehq",
+    "company_name": "Maze",
+    "job_id": "f20f4948-57c1-4aff-a746-128cf2749ec6",
+    "job_url": "https://jobs.ashbyhq.com/mazehq/job/f20f4948-57c1-4aff-a746-128cf2749ec6",
+    "title": "Senior Machine Learning Engineer",
+    "primary_location": "Remote (Europe)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote (Europe)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-09-26T17:59:00.980Z"
+  },
+  {
+    "company_slug": "netboxlabs",
+    "company_name": "NetBox Labs",
+    "job_id": "7c69825d-8e87-41bb-a747-af52370fe1f8",
+    "job_url": "https://jobs.ashbyhq.com/netboxlabs/job/7c69825d-8e87-41bb-a747-af52370fe1f8",
+    "title": "Backend Software Engineer, Observability Product (Agent)",
+    "primary_location": "US East Coast Remote",
+    "secondary_locations": [
+      "UK Remote"
+    ],
+    "matched_locations": [
+      "UK Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-10-29T16:27:04.700Z"
+  },
+  {
+    "company_slug": "netboxlabs",
+    "company_name": "NetBox Labs",
+    "job_id": "8f135cfb-8cde-4ed8-aa67-67f62e6e3e82",
+    "job_url": "https://jobs.ashbyhq.com/netboxlabs/job/8f135cfb-8cde-4ed8-aa67-67f62e6e3e82",
+    "title": "Principal/Staff Engineer, OCTO",
+    "primary_location": "US East Coast Remote",
+    "secondary_locations": [
+      "UK Remote"
+    ],
+    "matched_locations": [
+      "UK Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-10-29T16:28:06.863Z"
+  },
+  {
+    "company_slug": "netboxlabs",
+    "company_name": "NetBox Labs",
+    "job_id": "993ad53f-10ec-4a0f-b387-e218db35e80f",
+    "job_url": "https://jobs.ashbyhq.com/netboxlabs/job/993ad53f-10ec-4a0f-b387-e218db35e80f",
+    "title": "Senior Backend Software Engineer",
+    "primary_location": "US East Coast Remote",
+    "secondary_locations": [
+      "UK Remote"
+    ],
+    "matched_locations": [
+      "UK Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-10-21T17:00:47.485Z"
+  },
+  {
+    "company_slug": "netboxlabs",
+    "company_name": "NetBox Labs",
+    "job_id": "efc10a30-3dfa-4053-80fc-7f34e174e29f",
+    "job_url": "https://jobs.ashbyhq.com/netboxlabs/job/efc10a30-3dfa-4053-80fc-7f34e174e29f",
+    "title": "Senior DevOps Engineer",
+    "primary_location": "US East Coast Remote",
+    "secondary_locations": [
+      "UK Remote"
+    ],
+    "matched_locations": [
+      "UK Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-10-24T15:26:52.591Z"
+  },
+  {
+    "company_slug": "omniscient",
+    "company_name": "Omniscient",
+    "job_id": "b895c4dd-5c43-4b62-b9e2-224a92e38417",
+    "job_url": "https://jobs.ashbyhq.com/omniscient/job/b895c4dd-5c43-4b62-b9e2-224a92e38417",
+    "title": "French General Editor (Freelance, Contract)",
+    "primary_location": "France - Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "France - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Editors",
+    "updated_at": "2025-08-27T15:13:56.161Z"
+  },
+  {
+    "company_slug": "omniscient",
+    "company_name": "Omniscient",
+    "job_id": "c56e8126-22c2-4665-9fda-5414104cedac",
+    "job_url": "https://jobs.ashbyhq.com/omniscient/job/c56e8126-22c2-4665-9fda-5414104cedac",
+    "title": "German General Editor (Freelance, Contract)",
+    "primary_location": "Germany - Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Germany - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Editors",
+    "updated_at": "2025-06-20T17:59:29.521Z"
+  },
+  {
+    "company_slug": "posthog",
+    "company_name": "PostHog",
+    "job_id": "3f190a45-7810-47f9-b77d-169b806ea266",
+    "job_url": "https://jobs.ashbyhq.com/posthog/job/3f190a45-7810-47f9-b77d-169b806ea266",
+    "title": "Backend Engineer - Ingestion",
+    "primary_location": "Remote (EMEA)",
+    "secondary_locations": [
+      "Remote (UK)"
+    ],
+    "matched_locations": [
+      "Remote (EMEA)",
+      "Remote (UK)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Ingestion",
+    "updated_at": "2025-10-27T17:09:13.608Z"
+  },
+  {
+    "company_slug": "posthog",
+    "company_name": "PostHog",
+    "job_id": "3a7e914b-a993-46e6-9029-6a0f54652497",
+    "job_url": "https://jobs.ashbyhq.com/posthog/job/3a7e914b-a993-46e6-9029-6a0f54652497",
+    "title": "Technical Ex-Founder",
+    "primary_location": "Remote (US)",
+    "secondary_locations": [
+      "Remote",
+      "Remote (EMEA)"
+    ],
+    "matched_locations": [
+      "Remote (EMEA)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-10-21T12:17:11.596Z"
+  },
+  {
+    "company_slug": "posthog",
+    "company_name": "PostHog",
+    "job_id": "09fa96ee-532f-4cee-a9d5-0ad637e48087",
+    "job_url": "https://jobs.ashbyhq.com/posthog/job/09fa96ee-532f-4cee-a9d5-0ad637e48087",
+    "title": "Technical Onboarding Specialist",
+    "primary_location": "Remote (EMEA)",
+    "secondary_locations": [
+      "Remote (UK)",
+      "Remote",
+      "Remote (US)"
+    ],
+    "matched_locations": [
+      "Remote (EMEA)",
+      "Remote (UK)"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Onboarding",
+    "updated_at": "2025-10-22T23:27:30.136Z"
+  },
+  {
+    "company_slug": "reka",
+    "company_name": "Reka",
+    "job_id": "731e2ebc-2e66-458a-9962-0bc880016941",
+    "job_url": "https://jobs.ashbyhq.com/reka/job/731e2ebc-2e66-458a-9962-0bc880016941",
+    "title": "Member of Technical Staff (ML)",
+    "primary_location": "US, UK, Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "US, UK, Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Technical",
+    "updated_at": "2025-07-30T08:07:42.559Z"
+  },
+  {
+    "company_slug": "rula",
+    "company_name": "Rula",
+    "job_id": "59d062ba-08aa-4804-8c1f-42273cd26eed",
+    "job_url": "https://jobs.ashbyhq.com/rula/job/59d062ba-08aa-4804-8c1f-42273cd26eed",
+    "title": "Healthcare Partnerships Associate (Remote - Georgia)",
+    "primary_location": "Remote - Georgia",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote - Georgia"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "B2B Partnerships",
+    "updated_at": "2025-10-02T19:09:16.462Z"
+  },
+  {
+    "company_slug": "sardine",
+    "company_name": "Sardine",
+    "job_id": "76deb470-7b86-4938-8f80-72435bccb9b6",
+    "job_url": "https://jobs.ashbyhq.com/sardine/job/76deb470-7b86-4938-8f80-72435bccb9b6",
+    "title": "Data Scientist-POC",
+    "primary_location": "UK - Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "UK - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Fraud Ops and Analytics",
+    "updated_at": "2025-10-20T23:26:04.497Z"
+  },
+  {
+    "company_slug": "sardine",
+    "company_name": "Sardine",
+    "job_id": "8940dcd3-1cb1-4c45-b162-34630ddb63a5",
+    "job_url": "https://jobs.ashbyhq.com/sardine/job/8940dcd3-1cb1-4c45-b162-34630ddb63a5",
+    "title": "Integration Manager",
+    "primary_location": "UK & Europe - Remote",
+    "secondary_locations": [
+      "UK - Remote",
+      "Europe - Remote"
+    ],
+    "matched_locations": [
+      "UK & Europe - Remote",
+      "UK - Remote",
+      "Europe - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Integrations",
+    "updated_at": "2025-10-29T12:39:45.252Z"
+  },
+  {
+    "company_slug": "sardine",
+    "company_name": "Sardine",
+    "job_id": "84b8ff1e-81a2-44e7-9161-9ccd5e5b0cb3",
+    "job_url": "https://jobs.ashbyhq.com/sardine/job/84b8ff1e-81a2-44e7-9161-9ccd5e5b0cb3",
+    "title": "Strategic Account Manager",
+    "primary_location": "UK & Europe - Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "UK & Europe - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Accounts Management",
+    "updated_at": "2025-10-28T19:40:22.106Z"
+  },
+  {
+    "company_slug": "sardine",
+    "company_name": "Sardine",
+    "job_id": "d7bf5129-1f59-4dad-9524-17f2d7f6f93a",
+    "job_url": "https://jobs.ashbyhq.com/sardine/job/d7bf5129-1f59-4dad-9524-17f2d7f6f93a",
+    "title": "Technical Product Manager - Compliance",
+    "primary_location": "UK & Europe - Remote",
+    "secondary_locations": [
+      "Europe - Remote",
+      "UK - Remote"
+    ],
+    "matched_locations": [
+      "UK & Europe - Remote",
+      "Europe - Remote",
+      "UK - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product",
+    "updated_at": "2025-10-24T22:19:58.022Z"
+  },
+  {
+    "company_slug": "siena",
+    "company_name": "Siena AI",
+    "job_id": "4710ac6f-b304-4849-87c1-57f9becde036",
+    "job_url": "https://jobs.ashbyhq.com/siena/job/4710ac6f-b304-4849-87c1-57f9becde036",
+    "title": "Associate Product Manager ",
+    "primary_location": "New York",
+    "secondary_locations": [
+      "London",
+      "Warsaw",
+      "Dublin",
+      "Lisbon",
+      "Bucharest",
+      "Buenos Aires",
+      "Sao Paolo",
+      "Kraków",
+      "Barcelona",
+      "Austin",
+      "Remote - Europe"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product",
+    "updated_at": "2025-09-30T11:51:01.665Z"
+  },
+  {
+    "company_slug": "siena",
+    "company_name": "Siena AI",
+    "job_id": "95b0d2a3-8f92-4a6f-8609-2dd30cd61acc",
+    "job_url": "https://jobs.ashbyhq.com/siena/job/95b0d2a3-8f92-4a6f-8609-2dd30cd61acc",
+    "title": "Head of Operations",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [
+      "United Kingdom",
+      "Dublin",
+      "Porto",
+      "Poland",
+      "Romania",
+      "Spain"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Operations",
+    "updated_at": "2025-10-13T14:51:39.925Z"
+  },
+  {
+    "company_slug": "siena",
+    "company_name": "Siena AI",
+    "job_id": "73374406-6125-4abb-ae8b-42d718674a6a",
+    "job_url": "https://jobs.ashbyhq.com/siena/job/73374406-6125-4abb-ae8b-42d718674a6a",
+    "title": "Vibe GTM Engineer",
+    "primary_location": "Remote - Europe",
+    "secondary_locations": [
+      "Philippines",
+      "Argentina",
+      "Brazil"
+    ],
+    "matched_locations": [
+      "Remote - Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "GTM",
+    "updated_at": "2025-09-16T02:37:26.254Z"
+  },
+  {
+    "company_slug": "sona",
+    "company_name": "Sona",
+    "job_id": "51a84d5c-ba31-4eef-88ae-d52a5bb9455f",
+    "job_url": "https://jobs.ashbyhq.com/sona/job/51a84d5c-ba31-4eef-88ae-d52a5bb9455f",
+    "title": "Talent Partner - Sourcing",
+    "primary_location": "Remote - UK/Europe",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote - UK/Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "People",
+    "updated_at": "2025-10-17T12:17:12.622Z"
+  },
+  {
+    "company_slug": "stream",
+    "company_name": "Stream",
+    "job_id": "57a74b2c-b046-4f9f-b5a6-99606aa409fe",
+    "job_url": "https://jobs.ashbyhq.com/stream/job/57a74b2c-b046-4f9f-b5a6-99606aa409fe",
+    "title": "Staff Product Designer SDKs (mobile)",
+    "primary_location": "Amsterdam office",
+    "secondary_locations": [
+      "Remote (EU)"
+    ],
+    "matched_locations": [
+      "Remote (EU)"
+    ],
+    "workplace_type": null,
+    "employment_type": "FullTime",
+    "team_name": "Design",
+    "updated_at": "2025-08-21T09:57:35.301Z"
+  },
+  {
+    "company_slug": "stream",
+    "company_name": "Stream",
+    "job_id": "247b17f0-9c83-4fc9-a6ee-e9c45509727a",
+    "job_url": "https://jobs.ashbyhq.com/stream/job/247b17f0-9c83-4fc9-a6ee-e9c45509727a",
+    "title": "Staff Product Designer-UI",
+    "primary_location": "Amsterdam office",
+    "secondary_locations": [
+      "Remote (EU)"
+    ],
+    "matched_locations": [
+      "Remote (EU)"
+    ],
+    "workplace_type": "Hybrid",
+    "employment_type": "FullTime",
+    "team_name": "Design",
+    "updated_at": "2025-10-13T12:11:18.020Z"
+  },
+  {
+    "company_slug": "stream",
+    "company_name": "Stream",
+    "job_id": "3bea7dba-54e1-4c71-aa02-712a075842df",
+    "job_url": "https://jobs.ashbyhq.com/stream/job/3bea7dba-54e1-4c71-aa02-712a075842df",
+    "title": "Staff Python Engineer – Open Source Video/Voice AI Library",
+    "primary_location": "Amsterdam office",
+    "secondary_locations": [
+      "Remote (EU)",
+      "Toronto"
+    ],
+    "matched_locations": [
+      "Remote (EU)"
+    ],
+    "workplace_type": "Hybrid",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-08-21T13:17:41.121Z"
+  },
+  {
+    "company_slug": "stream",
+    "company_name": "Stream",
+    "job_id": "69536de0-6349-4394-a1a0-ea2ec0ede945",
+    "job_url": "https://jobs.ashbyhq.com/stream/job/69536de0-6349-4394-a1a0-ea2ec0ede945",
+    "title": "Staff Software Engineer (Golang)",
+    "primary_location": "Amsterdam office",
+    "secondary_locations": [
+      "Remote (EU)",
+      "Skopje (Remote)"
+    ],
+    "matched_locations": [
+      "Remote (EU)"
+    ],
+    "workplace_type": null,
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-07-30T09:23:10.914Z"
+  },
+  {
+    "company_slug": "stream",
+    "company_name": "Stream",
+    "job_id": "3d5cbd60-f6cb-4426-8889-75dfc13d7b78",
+    "job_url": "https://jobs.ashbyhq.com/stream/job/3d5cbd60-f6cb-4426-8889-75dfc13d7b78",
+    "title": "Unreal Engine C++ Developer (fixed term, 2-3 months project)",
+    "primary_location": "Amsterdam office",
+    "secondary_locations": [
+      "Skopje (Remote)",
+      "Remote (EU)"
+    ],
+    "matched_locations": [
+      "Remote (EU)"
+    ],
+    "workplace_type": null,
+    "employment_type": "Temporary",
+    "team_name": "Engineering",
+    "updated_at": "2025-08-13T12:14:46.597Z"
+  },
+  {
+    "company_slug": "svix",
+    "company_name": "Svix",
+    "job_id": "84e99bc9-5cd6-4af0-af84-17d63a7494b5",
+    "job_url": "https://jobs.ashbyhq.com/svix/job/84e99bc9-5cd6-4af0-af84-17d63a7494b5",
+    "title": "Rust Backend Engineer",
+    "primary_location": "Remote (US / EU) / San Francisco (On-Site)",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote (US / EU) / San Francisco (On-Site)"
+    ],
+    "workplace_type": "Hybrid",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-08-29T17:11:28.881Z"
+  },
+  {
+    "company_slug": "synthflow",
+    "company_name": "Synthflow AI",
+    "job_id": "a1da1ae0-7c7d-4e70-9560-6037cf842309",
+    "job_url": "https://jobs.ashbyhq.com/synthflow/job/a1da1ae0-7c7d-4e70-9560-6037cf842309",
+    "title": "Demand Generation Lead",
+    "primary_location": "EU Remote",
+    "secondary_locations": [
+      "Berlin",
+      "NYC",
+      "USA Remote"
+    ],
+    "matched_locations": [
+      "EU Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Marketing",
+    "updated_at": "2025-10-30T20:14:06.542Z"
+  },
+  {
+    "company_slug": "synthflow",
+    "company_name": "Synthflow AI",
+    "job_id": "1a9b3fa9-002d-4f7b-9a3f-a78c1d75a253",
+    "job_url": "https://jobs.ashbyhq.com/synthflow/job/1a9b3fa9-002d-4f7b-9a3f-a78c1d75a253",
+    "title": "Senior Product Designer",
+    "primary_location": "EU Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "EU Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product",
+    "updated_at": "2025-09-24T00:22:32.581Z"
+  },
+  {
+    "company_slug": "system2",
+    "company_name": "System2",
+    "job_id": "e6c536bd-9938-44af-89bd-11ea308170aa",
+    "job_url": "https://jobs.ashbyhq.com/system2/job/e6c536bd-9938-44af-89bd-11ea308170aa",
+    "title": "Inside Sales Representative, South Africa",
+    "primary_location": "South Africa - Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "South Africa - Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-10-22T02:31:58.486Z"
+  },
+  {
+    "company_slug": "talentful",
+    "company_name": "Talentful",
+    "job_id": "5cb605eb-4f33-4372-b1c9-ee626196475a",
+    "job_url": "https://jobs.ashbyhq.com/talentful/job/5cb605eb-4f33-4372-b1c9-ee626196475a",
+    "title": "Internal R4R Recruiter (FTC)",
+    "primary_location": "South Africa Remote ",
+    "secondary_locations": [],
+    "matched_locations": [
+      "South Africa Remote "
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "Operations ",
+    "updated_at": "2025-09-23T14:01:01.320Z"
+  },
+  {
+    "company_slug": "talentful",
+    "company_name": "Talentful",
+    "job_id": "b6d65966-c6ea-42c9-9b6e-5d24dfae65b1",
+    "job_url": "https://jobs.ashbyhq.com/talentful/job/b6d65966-c6ea-42c9-9b6e-5d24dfae65b1",
+    "title": "Senior Recruiter - French Speaking (12-month FTC)",
+    "primary_location": "UK Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "UK Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "UK",
+    "updated_at": "2025-09-03T14:11:35.721Z"
+  },
+  {
+    "company_slug": "talentful",
+    "company_name": "Talentful",
+    "job_id": "4cd44a51-4165-4ad0-ac81-28f66fb4fc17",
+    "job_url": "https://jobs.ashbyhq.com/talentful/job/4cd44a51-4165-4ad0-ac81-28f66fb4fc17",
+    "title": "Senior Recruiter - Spanish Speaking (12-month FTC)",
+    "primary_location": "UK Remote",
+    "secondary_locations": [],
+    "matched_locations": [
+      "UK Remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "Contract",
+    "team_name": "EMEA",
+    "updated_at": "2025-09-03T14:11:54.648Z"
+  },
+  {
+    "company_slug": "uipath",
+    "company_name": "UiPath",
+    "job_id": "639f9408-74f1-4cf5-8402-011e81889dff",
+    "job_url": "https://jobs.ashbyhq.com/uipath/job/639f9408-74f1-4cf5-8402-011e81889dff",
+    "title": "Enterprise Account Executive - Bulgaria & Hungary",
+    "primary_location": "Istanbul",
+    "secondary_locations": [
+      "Remote-Bulgaria"
+    ],
+    "matched_locations": [
+      "Remote-Bulgaria"
+    ],
+    "workplace_type": "OnSite",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-09-16T10:54:32.839Z"
+  },
+  {
+    "company_slug": "uipath",
+    "company_name": "UiPath",
+    "job_id": "75608040-76a3-4e52-b9cc-83cb40427be5",
+    "job_url": "https://jobs.ashbyhq.com/uipath/job/75608040-76a3-4e52-b9cc-83cb40427be5",
+    "title": "Public Sector Sales Executive – Bundeswehr & External Security",
+    "primary_location": "Remote-Germany",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote-Germany"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-10-14T09:37:58.324Z"
+  },
+  {
+    "company_slug": "uipath",
+    "company_name": "UiPath",
+    "job_id": "235cd2f9-5a32-4844-bbb1-f8835ca499ae",
+    "job_url": "https://jobs.ashbyhq.com/uipath/job/235cd2f9-5a32-4844-bbb1-f8835ca499ae",
+    "title": "Sales Engineer - Life Science",
+    "primary_location": "Remote-Texas",
+    "secondary_locations": [
+      "Remote-Florida",
+      "Remote-Colorado",
+      "Remote-California",
+      "Remote-Georgia"
+    ],
+    "matched_locations": [
+      "Remote-Georgia"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales Support",
+    "updated_at": "2025-10-29T22:23:36.614Z"
+  },
+  {
+    "company_slug": "uipath",
+    "company_name": "UiPath",
+    "job_id": "dd673a9d-f688-4c3f-ad77-a47c799bf6f9",
+    "job_url": "https://jobs.ashbyhq.com/uipath/job/dd673a9d-f688-4c3f-ad77-a47c799bf6f9",
+    "title": "Sales Engineer - SLED",
+    "primary_location": "Remote-Florida",
+    "secondary_locations": [
+      "Remote-Texas",
+      "Remote-North Carolina",
+      "Remote-Georgia"
+    ],
+    "matched_locations": [
+      "Remote-Georgia"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales Support",
+    "updated_at": "2025-10-01T20:54:09.158Z"
+  },
+  {
+    "company_slug": "uipath",
+    "company_name": "UiPath",
+    "job_id": "848bd3d0-1b9f-4a6b-b418-d655f3ddf32e",
+    "job_url": "https://jobs.ashbyhq.com/uipath/job/848bd3d0-1b9f-4a6b-b418-d655f3ddf32e",
+    "title": "Senior Sales Executive Egypt & French speaking Africa",
+    "primary_location": "Remote-Morocco",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote-Morocco"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-10-17T14:41:17.053Z"
+  },
+  {
+    "company_slug": "uipath",
+    "company_name": "UiPath",
+    "job_id": "238fb90a-bc59-4eb6-b1d2-0beb3762e27f",
+    "job_url": "https://jobs.ashbyhq.com/uipath/job/238fb90a-bc59-4eb6-b1d2-0beb3762e27f",
+    "title": "Senior Sales Executive Egypt & French speaking Africa ",
+    "primary_location": "Remote-Egypt",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote-Egypt"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-10-17T14:37:22.935Z"
+  },
+  {
+    "company_slug": "uipath",
+    "company_name": "UiPath",
+    "job_id": "9c729532-64fa-4ad5-a473-e3a0afe5ba96",
+    "job_url": "https://jobs.ashbyhq.com/uipath/job/9c729532-64fa-4ad5-a473-e3a0afe5ba96",
+    "title": "Sneior Enterprise Account Executive Nigeria",
+    "primary_location": "Remote-Nigeria",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote-Nigeria"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Sales",
+    "updated_at": "2025-09-29T13:17:29.343Z"
+  },
+  {
+    "company_slug": "uipath",
+    "company_name": "UiPath",
+    "job_id": "188dc7b0-de34-4ffb-a4df-22129874e01b",
+    "job_url": "https://jobs.ashbyhq.com/uipath/job/188dc7b0-de34-4ffb-a4df-22129874e01b",
+    "title": "Solution Architect",
+    "primary_location": "Remote-Texas",
+    "secondary_locations": [
+      "Remote-Washington, D.C.",
+      "Remote-Virginia",
+      "Remote-North Carolina",
+      "Remote-Arizona",
+      "Remote-Georgia",
+      "New York"
+    ],
+    "matched_locations": [
+      "Remote-Georgia"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Services",
+    "updated_at": "2025-10-21T00:58:25.540Z"
+  },
+  {
+    "company_slug": "uipath",
+    "company_name": "UiPath",
+    "job_id": "a42196f8-a386-4baf-be51-39dc73b1cb21",
+    "job_url": "https://jobs.ashbyhq.com/uipath/job/a42196f8-a386-4baf-be51-39dc73b1cb21",
+    "title": "Solution Architect - Public Sector",
+    "primary_location": "Remote-Texas",
+    "secondary_locations": [
+      "Remote-California",
+      "Remote-Washington",
+      "Remote-Washington, D.C.",
+      "Remote-Virginia",
+      "Remote-Arizona",
+      "Remote-North Carolina",
+      "Remote-Florida",
+      "Remote-Colorado",
+      "Remote-New Jersey",
+      "Remote-Maryland",
+      "Remote-Georgia"
+    ],
+    "matched_locations": [
+      "Remote-Georgia"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Services",
+    "updated_at": "2025-10-01T20:56:04.593Z"
+  },
+  {
+    "company_slug": "uipath",
+    "company_name": "UiPath",
+    "job_id": "216fd961-993c-46ef-b6b5-80baf21230af",
+    "job_url": "https://jobs.ashbyhq.com/uipath/job/216fd961-993c-46ef-b6b5-80baf21230af",
+    "title": "Technical Account Manager",
+    "primary_location": "Remote-Germany",
+    "secondary_locations": [],
+    "matched_locations": [
+      "Remote-Germany"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Services",
+    "updated_at": "2025-10-06T13:32:20.462Z"
+  },
+  {
+    "company_slug": "wayflyer",
+    "company_name": "Wayflyer",
+    "job_id": "8b4052a5-9e11-4acd-babc-963e5f5111ba",
+    "job_url": "https://jobs.ashbyhq.com/wayflyer/job/8b4052a5-9e11-4acd-babc-963e5f5111ba",
+    "title": "Backend Software Engineer",
+    "primary_location": "Remote Europe",
+    "secondary_locations": [
+      "Romania",
+      "Poland",
+      "Greece",
+      "Italy",
+      "Spain",
+      "Portugal ",
+      "Sweden ",
+      "Czech Republic"
+    ],
+    "matched_locations": [
+      "Remote Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-10-13T14:20:54.143Z"
+  },
+  {
+    "company_slug": "wayflyer",
+    "company_name": "Wayflyer",
+    "job_id": "7fac3b2e-d6b7-41a1-954c-b96025cdd209",
+    "job_url": "https://jobs.ashbyhq.com/wayflyer/job/7fac3b2e-d6b7-41a1-954c-b96025cdd209",
+    "title": "Product Manager - Innovation",
+    "primary_location": "Remote Europe",
+    "secondary_locations": [
+      "Spain",
+      "Germany ",
+      "Italy",
+      "Poland",
+      "Romania",
+      "Dublin",
+      "London"
+    ],
+    "matched_locations": [
+      "Remote Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product Management",
+    "updated_at": "2025-10-06T10:16:25.548Z"
+  },
+  {
+    "company_slug": "wayflyer",
+    "company_name": "Wayflyer",
+    "job_id": "14fcd1ae-65bf-4db4-8da5-743ee8227155",
+    "job_url": "https://jobs.ashbyhq.com/wayflyer/job/14fcd1ae-65bf-4db4-8da5-743ee8227155",
+    "title": "Senior Mobile Developer",
+    "primary_location": "Remote Europe",
+    "secondary_locations": [
+      "Portugal ",
+      "Sweden ",
+      "Czech Republic",
+      "Greece",
+      "Spain",
+      "Dublin",
+      "London",
+      "Poland",
+      "Romania"
+    ],
+    "matched_locations": [
+      "Remote Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-09-08T15:34:31.666Z"
+  },
+  {
+    "company_slug": "wayflyer",
+    "company_name": "Wayflyer",
+    "job_id": "a5025ab1-694c-464c-b696-a13f73d13d84",
+    "job_url": "https://jobs.ashbyhq.com/wayflyer/job/a5025ab1-694c-464c-b696-a13f73d13d84",
+    "title": "Senior Product Manager - Credit Risk & Underwriting",
+    "primary_location": "Remote Europe",
+    "secondary_locations": [
+      "Germany ",
+      "Poland",
+      "Barcelona",
+      "Greece",
+      "Portugal ",
+      "Spain",
+      "Italy",
+      "Romania",
+      "Dublin",
+      "London"
+    ],
+    "matched_locations": [
+      "Remote Europe"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product Management",
+    "updated_at": "2025-10-06T10:16:53.934Z"
+  },
+  {
+    "company_slug": "xbowcareers",
+    "company_name": "XBOW",
+    "job_id": "0c57eea2-11c4-4a52-996d-0ef2d4cd501d",
+    "job_url": "https://jobs.ashbyhq.com/xbowcareers/job/0c57eea2-11c4-4a52-996d-0ef2d4cd501d",
+    "title": "AI Research Engineer",
+    "primary_location": "Europe remote",
+    "secondary_locations": [
+      "US East Coast"
+    ],
+    "matched_locations": [
+      "Europe remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "AI",
+    "updated_at": "2025-10-03T14:04:40.767Z"
+  },
+  {
+    "company_slug": "xbowcareers",
+    "company_name": "XBOW",
+    "job_id": "120ee321-e07d-4ade-a0e7-424264bc6fe1",
+    "job_url": "https://jobs.ashbyhq.com/xbowcareers/job/120ee321-e07d-4ade-a0e7-424264bc6fe1",
+    "title": "Product Designer",
+    "primary_location": "Europe remote",
+    "secondary_locations": [
+      "US East Coast",
+      "Argentina"
+    ],
+    "matched_locations": [
+      "Europe remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product",
+    "updated_at": "2025-10-17T14:08:05.909Z"
+  },
+  {
+    "company_slug": "xbowcareers",
+    "company_name": "XBOW",
+    "job_id": "f5175dc8-06aa-4128-b00b-f205beea8328",
+    "job_url": "https://jobs.ashbyhq.com/xbowcareers/job/f5175dc8-06aa-4128-b00b-f205beea8328",
+    "title": "Product Manager: AI & Security",
+    "primary_location": "Europe remote",
+    "secondary_locations": [
+      "US East Coast",
+      "Argentina"
+    ],
+    "matched_locations": [
+      "Europe remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product",
+    "updated_at": "2025-10-03T11:48:42.565Z"
+  },
+  {
+    "company_slug": "xbowcareers",
+    "company_name": "XBOW",
+    "job_id": "49f5ae21-dc67-4bd9-8a89-11a492efd5bd",
+    "job_url": "https://jobs.ashbyhq.com/xbowcareers/job/49f5ae21-dc67-4bd9-8a89-11a492efd5bd",
+    "title": "Product Manager: Enterprise",
+    "primary_location": "Europe remote",
+    "secondary_locations": [
+      "US East Coast",
+      "Argentina"
+    ],
+    "matched_locations": [
+      "Europe remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product",
+    "updated_at": "2025-10-03T11:48:59.539Z"
+  },
+  {
+    "company_slug": "xbowcareers",
+    "company_name": "XBOW",
+    "job_id": "91fb73cb-42e7-44e0-9833-8ced13e0538c",
+    "job_url": "https://jobs.ashbyhq.com/xbowcareers/job/91fb73cb-42e7-44e0-9833-8ced13e0538c",
+    "title": "Product Manager: Professional Tools",
+    "primary_location": "Europe remote",
+    "secondary_locations": [
+      "US East Coast",
+      "Argentina"
+    ],
+    "matched_locations": [
+      "Europe remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Product",
+    "updated_at": "2025-10-03T11:49:48.079Z"
+  },
+  {
+    "company_slug": "xbowcareers",
+    "company_name": "XBOW",
+    "job_id": "975c18c6-ef7e-4c38-9f5b-f21ca6eaa41c",
+    "job_url": "https://jobs.ashbyhq.com/xbowcareers/job/975c18c6-ef7e-4c38-9f5b-f21ca6eaa41c",
+    "title": "Research Engineer / Software Engineer (backend/general)",
+    "primary_location": "US remote",
+    "secondary_locations": [
+      "Europe remote",
+      "Argentina"
+    ],
+    "matched_locations": [
+      "Europe remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-10-08T16:17:32.470Z"
+  },
+  {
+    "company_slug": "xbowcareers",
+    "company_name": "XBOW",
+    "job_id": "48152710-ea90-497d-ad21-575680feafff",
+    "job_url": "https://jobs.ashbyhq.com/xbowcareers/job/48152710-ea90-497d-ad21-575680feafff",
+    "title": "Research Engineer / Software Engineer (platform/core infrastructure)",
+    "primary_location": "US East Coast",
+    "secondary_locations": [
+      "Argentina",
+      "US remote",
+      "Canada remote",
+      "UK remote",
+      "Europe remote"
+    ],
+    "matched_locations": [
+      "UK remote",
+      "Europe remote"
+    ],
+    "workplace_type": "Remote",
+    "employment_type": "FullTime",
+    "team_name": "Engineering",
+    "updated_at": "2025-10-08T16:17:57.211Z"
+  }
+]
