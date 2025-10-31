@@ -1,0 +1,369 @@
+[
+  {
+    "company": "LILT",
+    "slug": "lilt",
+    "count": 97,
+    "titles": [
+      "AI Red Team Engineer - Arabic",
+      "AI Red Team Engineer - Dutch",
+      "AI Red Team Engineer - English",
+      "AI Red Team Engineer - French",
+      "AI Red Team Engineer - German"
+    ]
+  },
+  {
+    "company": "Omniscient",
+    "slug": "omniscient",
+    "count": 23,
+    "titles": [
+      "Account Manager",
+      "Australian Content Editor (Freelance, Contract)",
+      "CMS Content Upload Specialist (Freelance, Contract)",
+      "Content Editor - General Application (Freelance, Contract)",
+      "Data Governance Content Writer (Freelance, Contract)"
+    ]
+  },
+  {
+    "company": "Ashby",
+    "slug": "ashby",
+    "count": 13,
+    "titles": [
+      "Account Executive, Startups - EMEA",
+      "Design Engineer - EMEA",
+      "Engineering Manager - EMEA",
+      "Enterprise Account Executive - EMEA",
+      "Principal Platform Engineer - EMEA"
+    ]
+  },
+  {
+    "company": "1Password",
+    "slug": "1password",
+    "count": 12,
+    "titles": [
+      "Account Executive, Commercial",
+      "Account Specialist, Growth",
+      "Account Specialist, Growth (German)",
+      "BDR, SMB (DACH)",
+      "SMB Account Executive EMEA"
+    ]
+  },
+  {
+    "company": "UiPath",
+    "slug": "uipath",
+    "count": 10,
+    "titles": [
+      "Enterprise Account Executive - Bulgaria & Hungary",
+      "Public Sector Sales Executive – Bundeswehr & External Security",
+      "Sales Engineer - Life Science",
+      "Sales Engineer - SLED",
+      "Senior Sales Executive Egypt & French speaking Africa"
+    ]
+  },
+  {
+    "company": "Maze",
+    "slug": "mazehq",
+    "count": 8,
+    "titles": [
+      "Backend Engineer (AI Agents)",
+      "Backend Engineer (Data Engineering)",
+      "Customer Onboarding Manager",
+      "Infra/DevOps Engineer",
+      "Product Manager"
+    ]
+  },
+  {
+    "company": "Deepgram",
+    "slug": "Deepgram",
+    "count": 7,
+    "titles": [
+      "Customer Success Engineer (EMEA)",
+      "EMEA Account Executive",
+      "EMEA Sales Leader",
+      "Senior Pre-Sales Solutions Engineer - APAC",
+      "Senior Pre-Sales Solutions Engineer - EMEA"
+    ]
+  },
+  {
+    "company": "XBOW",
+    "slug": "xbowcareers",
+    "count": 7,
+    "titles": [
+      "AI Research Engineer",
+      "Product Designer",
+      "Product Manager: AI & Security",
+      "Product Manager: Enterprise",
+      "Product Manager: Professional Tools"
+    ]
+  },
+  {
+    "company": "Ema",
+    "slug": "ema",
+    "count": 6,
+    "titles": [
+      "Enterprise Sales Executive - UK",
+      "Marketing Lead",
+      "Partner Manager - UK",
+      "Partner Success Architect",
+      "Sales Strategy & Operations - UK"
+    ]
+  },
+  {
+    "company": "Dandy",
+    "slug": "dandy",
+    "count": 5,
+    "titles": [
+      "Color Management Lead",
+      "Engineering Manager, Machine Learning Operations",
+      "Senior Computer Vision /Machine Learning Engineer II",
+      "Senior Software Engineer II- CAD/3D Algorithms (Europe)",
+      "Staff Machine Learning & Computer Vision Engineer"
+    ]
+  },
+  {
+    "company": "Horizon3 AI",
+    "slug": "horizon3ai",
+    "count": 5,
+    "titles": [
+      "Account Executive (Denmark, Norway, Finland)",
+      "Account Executive, Benelux",
+      "Account Executive, Iberia",
+      "Enterprise Account Executive, Sweden",
+      "Senior Technical Customer Success Manager (EMEA)"
+    ]
+  },
+  {
+    "company": "Stream",
+    "slug": "stream",
+    "count": 5,
+    "titles": [
+      "Staff Product Designer SDKs (mobile)",
+      "Staff Product Designer-UI",
+      "Staff Python Engineer – Open Source Video/Voice AI Library",
+      "Staff Software Engineer (Golang)",
+      "Unreal Engine C++ Developer (fixed term, 2-3 months project)"
+    ]
+  },
+  {
+    "company": "NetBox Labs",
+    "slug": "netboxlabs",
+    "count": 4,
+    "titles": [
+      "Backend Software Engineer, Observability Product (Agent)",
+      "Principal/Staff Engineer, OCTO",
+      "Senior Backend Software Engineer",
+      "Senior DevOps Engineer"
+    ]
+  },
+  {
+    "company": "OpenSea",
+    "slug": "OpenSea",
+    "count": 4,
+    "titles": [
+      "Staff Android Engineer",
+      "Staff Backend Engineer",
+      "Staff Data Engineer",
+      "Staff iOS Engineer"
+    ]
+  },
+  {
+    "company": "Sardine",
+    "slug": "sardine",
+    "count": 4,
+    "titles": [
+      "Data Scientist-POC",
+      "Integration Manager",
+      "Strategic Account Manager",
+      "Technical Product Manager - Compliance"
+    ]
+  },
+  {
+    "company": "Wayflyer",
+    "slug": "wayflyer",
+    "count": 4,
+    "titles": [
+      "Backend Software Engineer",
+      "Product Manager - Innovation",
+      "Senior Mobile Developer",
+      "Senior Product Manager - Credit Risk & Underwriting"
+    ]
+  },
+  {
+    "company": "Chronosphere",
+    "slug": "chronospherejobs",
+    "count": 3,
+    "titles": [
+      "Channel Account Manager, EMEA",
+      "Customer Support Engineer - EMEA",
+      "Manager, Engineering - Storage  "
+    ]
+  },
+  {
+    "company": "Clay Labs",
+    "slug": "claylabs",
+    "count": 3,
+    "titles": [
+      "Enterprise Growth Strategist",
+      "GTM Engineer (London) ",
+      "Product Support Specialist "
+    ]
+  },
+  {
+    "company": "Corti",
+    "slug": "corti",
+    "count": 3,
+    "titles": [
+      " Partner Marketing Manager",
+      "Join Corti's Talent Community ",
+      "Senior Customer Success Engineer (German-speaking)"
+    ]
+  },
+  {
+    "company": "PostHog",
+    "slug": "posthog",
+    "count": 3,
+    "titles": [
+      "Backend Engineer - Ingestion",
+      "Technical Ex-Founder",
+      "Technical Onboarding Specialist"
+    ]
+  },
+  {
+    "company": "Siena AI",
+    "slug": "siena",
+    "count": 3,
+    "titles": [
+      "Associate Product Manager ",
+      "Head of Operations",
+      "Vibe GTM Engineer"
+    ]
+  },
+  {
+    "company": "Synthflow AI",
+    "slug": "synthflow",
+    "count": 3,
+    "titles": [
+      "Applied LLM Engineer - Prompts, Evals & Agents",
+      "Demand Generation Lead",
+      "Senior Product Designer"
+    ]
+  },
+  {
+    "company": "Talentful",
+    "slug": "talentful",
+    "count": 3,
+    "titles": [
+      "Internal R4R Recruiter (FTC)",
+      "Senior Recruiter - French Speaking (12-month FTC)",
+      "Senior Recruiter - Spanish Speaking (12-month FTC)"
+    ]
+  },
+  {
+    "company": "FlutterFlow",
+    "slug": "FlutterFlow",
+    "count": 2,
+    "titles": [
+      "General Application - Future Openings",
+      "Software Engineer - Future Openings"
+    ]
+  },
+  {
+    "company": "Improbable",
+    "slug": "improbable",
+    "count": 2,
+    "titles": [
+      "Finance Manager -Venture Business ",
+      "General Application"
+    ]
+  },
+  {
+    "company": "Jigsaw",
+    "slug": "jigsaw",
+    "count": 2,
+    "titles": [
+      "Head of Engineering",
+      "Product Success Associate - US East Coast Hours"
+    ]
+  },
+  {
+    "company": "LiveFlow",
+    "slug": "liveflow",
+    "count": 2,
+    "titles": [
+      "Platform Engineer",
+      "Senior Full Stack Engineer"
+    ]
+  },
+  {
+    "company": "Masabi",
+    "slug": "masabi",
+    "count": 2,
+    "titles": [
+      "Chief Software Architect",
+      "Product Designer (12-month FTC)"
+    ]
+  },
+  {
+    "company": "Enode",
+    "slug": "enode",
+    "count": 1,
+    "titles": [
+      "Business Operations & Automation Engineer"
+    ]
+  },
+  {
+    "company": "Kustomer",
+    "slug": "kustomer",
+    "count": 1,
+    "titles": [
+      "Enterprise Account Executive, EMEA"
+    ]
+  },
+  {
+    "company": "OP Labs",
+    "slug": "oplabs",
+    "count": 1,
+    "titles": [
+      "Protocol Engineer, Proofs"
+    ]
+  },
+  {
+    "company": "Reka",
+    "slug": "reka",
+    "count": 1,
+    "titles": [
+      "Member of Technical Staff (ML)"
+    ]
+  },
+  {
+    "company": "Rula",
+    "slug": "rula",
+    "count": 1,
+    "titles": [
+      "Healthcare Partnerships Associate (Remote - Georgia)"
+    ]
+  },
+  {
+    "company": "Sona",
+    "slug": "sona",
+    "count": 1,
+    "titles": [
+      "Talent Partner - Sourcing"
+    ]
+  },
+  {
+    "company": "Svix",
+    "slug": "svix",
+    "count": 1,
+    "titles": [
+      "Rust Backend Engineer"
+    ]
+  },
+  {
+    "company": "System2",
+    "slug": "system2",
+    "count": 1,
+    "titles": [
+      "Inside Sales Representative, South Africa"
+    ]
+  }
+]
